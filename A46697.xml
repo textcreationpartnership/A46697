@@ -1,0 +1,1157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine letters of Henry Jeanes minister of Gods word at Chedzoy and Dr. Jeremy Taylor concerning a passage of his, in his further explication of originall sin.</title>
+            <author>Jeanes, Henry, 1611-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 150 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46697</idno>
+            <idno type="STC">Wing J504</idno>
+            <idno type="STC">ESTC R202621</idno>
+            <idno type="EEBO-CITATION">11931131</idno>
+            <idno type="OCLC">ocm 11931131</idno>
+            <idno type="VID">51124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine letters of Henry Jeanes minister of Gods word at Chedzoy and Dr. Jeremy Taylor concerning a passage of his, in his further explication of originall sin.</title>
+                  <author>Jeanes, Henry, 1611-1662.</author>
+                  <author>Taylor, Jeremy, 1613-1667.</author>
+               </titleStmt>
+               <extent>[4], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen. Hall for Tho. Robinson,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin, Original.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51124:1"/>
+            <pb facs="tcp:51124:1"/>
+            <p>Certaine Letters OF HENRY IEANES Miniſter of Gods word AT <hi>CHEDZOY.</hi> AND D<hi rend="sup">r</hi> IEREMY TAYLOR <hi>Concerning</hi> A paſſage of his, in his further Explication of <hi>Originall ſin.</hi>
+            </p>
+            <p>OXFORD, Printed by HEN: HALL for THO: ROBINSON, 1660.</p>
+         </div>
+         <div type="passage_in_dispute">
+            <pb facs="tcp:51124:2"/>
+            <head>D<hi rend="sup">r</hi> Taylor in his further explication of the doctrine of originall ſin, <hi>pag. 496.</hi>
+            </head>
+            <q>
+               <p>THat every man is inclined to evill, ſome more, ſome leſſe, but all in ſome inſtan<g ref="char:EOLhyphen"/>ces; is very true: and it is an effect, or con<g ref="char:EOLhyphen"/>dition of nature, but no ſinne properly; 1: be<g ref="char:EOLhyphen"/>cauſe that which is unavoidable is not a ſinne; 2: becauſe it is accidentall to nature, not intrin<g ref="char:EOLhyphen"/>ſecall, and eſſentiall; 3: It is ſuperinduc'd to na<g ref="char:EOLhyphen"/>ture, and is after it, &amp;c.</p>
+            </q>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:51124:2"/>
+            <pb facs="tcp:51124:3"/>
+            <head>To the unprejudiced Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> ſhall only give thee a briefe narrative of the occaſion of the enſuing letters: one <hi>M<hi rend="sup">r</hi> T. C.</hi> of Bridgwater being at my houſe, brake out into extraordinary, (that I ſay not exceſsive, and Hyperbolicall) prayſes of <hi>D<hi rend="sup">r</hi> Ie<g ref="char:EOLhyphen"/>remy Taylor;</hi> I expreſſed my concurrence with him in great part; nay I came nothing behind him in the juſt co<g ref="char:cmbAbbrStroke">̄</g>mendations of his admirable wit, great parts, quick and elegant pen, his abilites in Criticall learning, and his profound skil in antiquity: but notwithſtanding all this I profeſſed my diſſent from ſome of his opinions which I judged to be erroneous; and I inſtanced in his doctrine of originall ſin; now his further explication of this lay then cauſually in the window (as I take it) which hereupon I took up, and turned unto the paſſage now under debate, and ſhewed unto <hi>M<hi rend="sup">r</hi> T. C.</hi> that therein was groſse nonſenſe, and blaſphemy; he for his own part, with a great deale of modeſty, forthwith declined all further diſpute of the buſineſse, but withal he told me, that he would, If I ſo pleaſed, give <hi>D<hi rend="sup">r</hi> Tay<g ref="char:EOLhyphen"/>lor</hi> notice of what I ſaid; whereunto I agreed, and in a ſhort time he brought me from the <hi>D<hi rend="sup">r</hi>
+               </hi> a faire, and civill invitation to ſend him my exceptions, and with it a promiſe of a candid reception of them; whereupon I drew them up in a letter unto M<hi rend="sup">r</hi> T. C. the Copy where<g ref="char:EOLhyphen"/>of followeth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="initial_correspondence">
+            <pb n="1" facs="tcp:51124:3"/>
+            <head>Letters of the Authour And D<hi rend="sup">r</hi> IEREMY TAYLOR <hi>To M<hi rend="sup">r</hi> T. C.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> have here, according unto your deſire ſent you my ecce<g ref="char:EOLhyphen"/>ptions againſt that paſſage in Dr Taylor, concerning which you diſcourſed at my houſe; It is in his fur<g ref="char:EOLhyphen"/>ther explication of the Doctrine of originall ſinne, <hi>page</hi> 496: and it is the ſecond argument, which he brings to prove; that inclination to evill is <hi>no ſinne properly; becauſe it is accidentall to nature,</hi> not intrinſecall and eſ<g ref="char:EOLhyphen"/>ſentiall. The argument put into forme may be reduced into two ſyllogiſmes.</p>
+                  <list type="syllogism">
+                     <head>The firſt.</head>
+                     <item>Sinne properly is not accidentall to the nature of man.</item>
+                     <item>An inclination to evill is accidentall to the nature of man: therefore</item>
+                     <item>An inclination to evill is no ſinne properly.</item>
+                  </list>
+                  <list>
+                     <head>A ſecond Syllogiſme is.</head>
+                     <item>Sinne properly ſo called is intrinſecall, and eſſentiall to the nature of man.</item>
+                     <item>An inclination to evill is not intrinſecall, and eſſentiall to the nature of man: therefore,</item>
+                     <item>An inclination to evill is not ſinne properly ſo called.</item>
+                  </list>
+                  <p>Unto the firſt of thoſe ſyllogiſmes; I anſwer that the major is falſe; and that according to <hi>Porphyry</hi> his ſo celebrated definition of an accident.</p>
+                  <p>
+                     <hi>Accidens eſt quod adeſt, &amp; abeſt ſine ſubject<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> interitu:</hi> that is, as the beſt Com<g ref="char:EOLhyphen"/>mentators upon <hi>Porphyry</hi> expound the words. An accident is that, which may be affirmed, or denied of it's ſubject, without any repugnancy, or contradiction to the eſſence, and definition thereof; now to deny ſinne of man, gives no overthrow to his eſſence and definition, for a man that is no ſinner may bee <hi>animal ratio<g ref="char:EOLhyphen"/>nale;</hi> ſinne therefore is accidentall to the nature of man.</p>
+                  <p>The <hi>major</hi> of the ſecond ſyllogiſme is no leſſe falſe, than that of the firſt, as for the terme, intrinſecall, I ſhall not ſtay upon it; becauſe the Dr uſeth it as e<g ref="char:EOLhyphen"/>quivalent to eſſentiall, as is apparent by the Antitheſis, he puts between it and accidentall; but ſhall wholy inſiſt upon the word eſſentiall: To ſay, as the Dr doth by conſequence, that ſinne is eſſentiall to the nature of man, is an aſſertion, guilty of <hi>nonſenſes Blaſphemy,</hi> and <hi>libertiniſme.</hi>
+                  </p>
+                  <pb n="2" facs="tcp:51124:4"/>
+                  <p>1. <hi>Nonſence.</hi> A thing may be ſaid to be eſſentiall unto an other, either <hi>à prio<g ref="char:EOLhyphen"/>ri,</hi> and then it is predicated of it, <hi>in primo modo dicendi per ſe;</hi> or elſe <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> poſterio<g ref="char:EOLhyphen"/>ri,</hi> and then it is predicated of it, <hi>in ſecundo modo dicendi per ſe.</hi> And to ſay that ſinne is either of theſe wayes eſſentiall to the nature of man, is ſuch pittifull, and prodigious nonſence, as that I cannot thinke it worthy of any ſerious refutation.</p>
+                  <p>In a <hi>ſecond</hi> place I charge it with Blaſphemy: it blaſphemes three actions, three acts of God.</p>
+                  <list>
+                     <item>1. <hi>The creation of man.</hi>
+                     </item>
+                     <item>2. <hi>The incarnation of Chriſt.</hi>
+                     </item>
+                     <item>3. The <hi>full glorification of the Saints</hi> at the reſurrection.</item>
+                  </list>
+                  <p n="1">1. <hi>The creation of man:</hi> God was the Authour of whatſoever was eſſentiall unto man; And if ſinne be eſſentiall unto the nature of man, then God was the Author of ſinne.</p>
+                  <p n="2">2. <hi>The incarnation of Chriſt:</hi> in which God made Chriſt like unto man in eſ<g ref="char:EOLhyphen"/>ſentialls; If ſinne then be eſſentiall unto the nature of man, God made Chriſt ſinfull; a blaſphemy that I tremble to mention.</p>
+                  <p n="3">3. <hi>This</hi> opinion blaſphemes God's full <hi>glorification</hi> of the Saints in the reſur<g ref="char:EOLhyphen"/>rection; for it affirmes by juſt conſequence, that they ſhall be raiſed with ſinne; becauſe doubleſſe they ſhall be raiſed with whatſoever is eſſentiall to the nature of man.</p>
+                  <p>In the <hi>third, and laſt place</hi> this Tenet is chargeable with libertianiſme: 'Tis a licentious doctrine, and opens a gap to the greateſt profaneneſſe; for it takes a<g ref="char:EOLhyphen"/>way all conſcience of ſinne, all repentance of it for the time paſt, all caution a<g ref="char:EOLhyphen"/>gainſt it for the future: If ſinne be eſſentiall to the nature of man, what reaſon hath he to be humbled for it? to aske God pardon for it? to make any ſcruple of the committing of it?</p>
+                  <p>And thus having briefly performed my promiſe, and ſatisfied your requeſt, I ſhall reſt</p>
+                  <closer>
+                     <signed>Your affectionate freind, and humble ſervant <hi>HENRY JEANES.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Before the receipt of this, Mr <hi>T. C.</hi> gave an account unto Dr <hi>Taylor</hi> of what he remembred in our diſcourſe, and received from him an anſwer, which he con<g ref="char:EOLhyphen"/>cealed from me untill the delivery of my paper, and then he produced it. This an<g ref="char:EOLhyphen"/>ſwer together with my reply thereunto I ſhall next offer unto thy Conſideration.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To his reſpected Freind <hi>Mr. T. C.</hi> theſe, &amp;c.</head>
+                  <opener>
+                     <salute>Mr. C.</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> thanke you for your letter, and friendly information of <hi>Mr Jeanes</hi> his exception; but if he had been as carefull to underſtand as he was forward to object, and miſtake, he had eaſed you, and me of this little trouble. He objects that I ſay, that encli<g ref="char:EOLhyphen"/>nation to ſinne is no ſinne, becauſe it is accidentall, not intrinſecall, and eſſentiall: and he gives reaſons why ſuch a reaſon is abſurd. To all which I returne this ſoft anſwer, that he ſayes true, but nothing to the purpoſe. For the thing that I was to prove then, was the precedent word: <hi>[that every man is inclined to evill, ſome more, ſome leſſe:]</hi> that is, that this inclination to evill is not regular and uniforme,
+<pb n="3" facs="tcp:51124:4"/>and therefore not naturall, for as for the other clauſe] <hi>it is an effect or condition of nature, but no ſinne properly]</hi> that was the leſſe principall part of the propoſition, and to it only the firſt reaſon was apportion'd, viz: <hi>[that which is unavoidable is not a ſin.)</hi> But if he had conſidered the buſineſſe I was then upon, be muſt needs have ſeene that I was explicating that clauſe of the Church Article <hi>[and is inclined to e<g ref="char:EOLhyphen"/>vill]</hi> which I was to ſay, was an inclination not naturall, not intrinſecall, not eſ<g ref="char:EOLhyphen"/>ſentiall; but accidentall: and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this thing I purſue, and to this all the other rea<g ref="char:EOLhyphen"/>ſons relate to the end of that ſection, and none of them, the firſt only excepted, relates to the latter part of the propoſition, which if I had left out, and the reaſons relating to it, the ſenſe had been as compleat, and my argument not the worſe, and my diſ<g ref="char:EOLhyphen"/>courſe no leſſe pertinent. And unleſſe he refer the <hi>l4</hi> aſt reaſons, that is, all after the firſt to that clauſe of the variety of our inclination to evill, he will not only miſtake the ſecond reaſon, but all the reſt. Beſides this if <hi>Mr Jeanes</hi> had ſo much ingenuity as he pretends to have Logicke, he would have perceived that for me to meane, what he ſayes I meane, had been the perfect deſtruction of all my diſcourſe, and all my intention, for if I had ſayd, that nothing could be a ſinne; but what is intrinſecall and eſſentiall, then I had affirmed that not only ſome ſinne, but all ſinne had beene naturall. Now my Theſis being, that no ſin, properly ſuch, is naturall; it cannot be imagined that I ſhould meane what he dreames of: it had not been to my purpoſe, either there or in the whole que<g ref="char:EOLhyphen"/>ſtion. But all the following reaſons do ſo explicate, and fully manifeſt the meaning of the ſecond; that I wonder how <hi>Mr Jeanes</hi> if he be that perſon which he would be thought, could miſtake, it, unleſſe he be alſo that perſon he would not be thought: I could ſay many more things, but this being the truth of the buſineſſe, and the reall purpoſe of my diſcourſe, I need adde no more; but one thing I cannot but adde to <hi>Mr Jeanes,</hi> that is, ſince be inſtances in our B. Saviour, he muſt needs allow that concupiſcence, taking it for thoſe deſires, which are purely naturall, and concreated with us, cannot poſſibly bee a ſinne: Becauſe as <hi>Mr Jeanes</hi> rightly obſerves, whatſoever is naturall to man, was in Chriſt, becauſe he had all our meere nature, but he had, not our ſin; there<g ref="char:EOLhyphen"/>fore, our meere nature hath no ſinne: for Chriſt was in all things like to us, ſinne only excepted, but he took upon him our nature, and nothing of that was excepted; therefore our nature of it ſelfe is not properly ſinfull: nothing of our conſtitution is criminall.</p>
+                  <p>Sir, I have given you a faire and eaſie anſwer. I pray let <hi>Mr Jeanes</hi> have ſo much conveyed to him, as concernes that part to which he objects: and if he writes any thing againſt me, let him take notice of this my anſwer, or elſe all the World ſhall take notice of his impertinent, and uningenious dealing: I pray let not this letter goe out of your hand, becauſe I have no copy of it, if <hi>Mr Jeanes</hi> ſhould be trouble ſome: But if he be, it will be ſufficient to acquaint his neighbourhood with my defence, for what he ſayes ſhall goe no farther. Sir, I hope you will expound this trouble I put you to in rea<g ref="char:EOLhyphen"/>ding a long letter to my readineſſe to doe you ſervice, and as a returne of thoſe great kindneſſes by which you have obliged</p>
+                  <closer>
+                     <dateline>London <date>July 4th. <hi>1657.</hi>
+                        </date>
+                     </dateline>
+                     <salute>Sir,</salute> 
+                     <signed>
+                        <hi>Your very affectionate friend to love and ſerve you</hi> JER: TAYLOR.</signed>
+                  </closer>
+                  <postscript>
+                     <pb n="4" facs="tcp:51124:5"/>
+                     <head>Poſtſcript.</head>
+                     <p>I hope I have ſpoken clearly enough in the explicating, and untying this knot in the bul<g ref="char:EOLhyphen"/>ruſh; but if it be not extreamly plaine, for your own ſatisfaction make but the ſecond part of the propoſition to be a Parentheſis; thus, beginning at (and it is an ef<g ref="char:EOLhyphen"/>fect, &amp;c: unto <hi>2.)</hi> and then the thing is extreamely plaine, for there the deſigne was on<g ref="char:EOLhyphen"/>ly to ſay and prove that although man be (more or leſſe, as it happens) inclined to ſinne, yet his nature is never the more criminall for that: for it is beſides his nature, it is accidentall to it, not but that it is naturall to be inclined to ſuch objects; but that this ſhould be ſinfull is but in ſome caſes, and it is accidentall, and it is becauſe thoſe object; were forbidden after our nature was given to us. Man is naturally inclined to ſome things, which are not naturally, but accidentally ſinfull.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To his Loving friend Mr T. C. theſe &amp;c.</head>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I have received <hi>Dr Taylor</hi> his letter ſent unto you, bearing date July 4th. What deſigne you had in concealing of it ſo long from me I cannot gueſſe. But if you had delivered it before I had ſent you my objections, you would have eaſed me, and <hi>Dr Taylor</hi> of ſome trouble: for I ſhould then have let alone theſe objections, and have only proved, that I did him no wrong, in charging him with the con<g ref="char:EOLhyphen"/>cluſions, againſt which theſe objections were directed; to wit, that no <hi>ſinne is ac<g ref="char:EOLhyphen"/>cidentall;</hi> that all ſinne is <hi>eſſentiall, and intrinſecall.</hi>
+                  </p>
+                  <p>Two things he layeth to my charge, <hi>want of care to underſtand him,</hi> and <hi>diſin<g ref="char:EOLhyphen"/>genuity.</hi>
+                  </p>
+                  <p n="1">1. <hi>Want</hi> of care to underſtand him. <hi>]If he had been (he ſayth) as carefull to underſtand as he was forward to object, and miſtak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, he had eaſed you, and me of this little trouble.]</hi> But if the Dr had been a man of that ingenuity, which you fame him for, he would have confeſſed his careleſneſſe in expreſſing of himſelfe, and not have charged me with want of care to underſtand, that to bee his meaning which I could not underſtand to bee his meaning without offering violence to his words: he propounds two propoſitions (without any thing, but a copulative con<g ref="char:EOLhyphen"/>junction interpoſed betweene them) And unto the laſt of theſe propoſitions he ſubjoyneth 6 reaſons. Now what rule of Logicke obliged me to cary the 5 laſt of theſe reaſons backwards, and to place them between the above mentioned propoſiti<g ref="char:EOLhyphen"/>ons, I readily confeſſe my ſelfe to be utterly ignorant, and ſhall be very ready to ſit downe at the Doctor's feet, and to learne any ſuch rule of him. If the Dr muſt have ſuch liberty allowed him to make ſuch unexampled tranſpoſitions, he is a ve<g ref="char:EOLhyphen"/>ry formidable adverſary, not to be coped with by mortall wights, who cannot gueſſe, how he will in an after game ſever theſe reaſons, that he hath firſt joyned together.</p>
+                  <p>Logicke informeth me that ſecondly ſignifies a relation of order betwixt it ſelfe and firſtly. But now if two reaſons be related unto not one, but ſeveral conclu<g ref="char:EOLhyphen"/>ſions, I would faine know why one ſhould be the firſt, and the other the ſecond reaſon.</p>
+                  <pb n="5" facs="tcp:51124:5"/>
+                  <p>Beſides here is a firſt reaſon, that hath no <hi>ſecond reaſon</hi> following it, rela<g ref="char:EOLhyphen"/>ting unto the ſame concluſion. There goeth a ſtory of an <hi>Alderman in Ox<g ref="char:EOLhyphen"/>ford,</hi> that upon the reading of ſome records touching ſomething controverted be<g ref="char:EOLhyphen"/>twixt the Town, and Univerſity, he brake out into this expreſſion; unleſſe we can prove <hi>King Henry</hi> the 8th to be before <hi>King Henry</hi> the ſeventh the Univerſity will have the better of us: But if we can make it good, that <hi>King Henry</hi> the 8th was before <hi>King Henry</hi> the 7th, then there is no doubt, but that we ſhall in this par<g ref="char:EOLhyphen"/>ticular have a full Conqueſt over the Schollars. I take this to be a fable: But however give me leave to make application of it unto my preſent purpoſe. All the wrong, that the Dr can pretend, that I have done him, is becauſe I did not place <hi>ſe<g ref="char:EOLhyphen"/>condly</hi> before <hi>firſtly,</hi> and if he can make it good, that I ought to have placed, <hi>ſecond<g ref="char:EOLhyphen"/>ly</hi> before <hi>firſtly,</hi> then I muſt needs confeſſe I have done him a great deale of In<g ref="char:EOLhyphen"/>jury, and ſhall be ready to aske his pardon; and unleſſe ſuch proofe can be made, he muſt lay the blame upon the Confuſion, and diſorder of his own diſcourſe: But to goe on. The Dr tels us, that this clauſe <hi>[it is an effect, or condition of nature, but no ſime properly, is the leſſe principall part of the propoſition:]</hi> both clau<g ref="char:EOLhyphen"/>ſes then, according unto him, make but one propoſition; and this is a great fai<g ref="char:EOLhyphen"/>ling againſt that Logicke, which the learned have hitherto uſed; for by that, theſe two clauſes are not parts of one propoſition, but ſeverall, intire, diſtinct pro<g ref="char:EOLhyphen"/>poſitions.</p>
+                  <p>But perhaps he may ſay, that they make one compounded propoſition.</p>
+                  <p>Unto this I ſhall reply, 1. That a compounded propoſition conſiſts ever of ſimple propoſitions. Now the laſt of theſe clauſes (to ſay nothing of the firſt) is a compounded propoſition it ſelfe, for it is an adverſative prepoſition; and therefore, though theſe two clauſes may make an aggregation of ſeverall propo<g ref="char:EOLhyphen"/>ſitions, yet they can never concurre to the Compoſition of one.</p>
+                  <p n="2">2. If both clauſes make one compounded propoſition, then it is a <hi>copulative</hi> propoſition; becauſe they are knit together by a copulative conjunction; Now a copulative propoſition is not true, unleſſe all parts be true; and conſequently it is not proved to be true, unleſſe all parts be proved to be true: Now the Doctor for the proofe of this pretended copulative propoſition jumbleth together 6 rea<g ref="char:EOLhyphen"/>ſons without any note of diſtinction to direct the Reader, unto which part of the propoſition (as he cals it) he ſhould apply the ſeverall reaſons: and whether this proofe of a copulative propoſition be not illogicall, I appeale unto any man, that knowes any thing in Logicke.</p>
+                  <p>He informes you, that the firſt reaſon is apportioned to be unto the latter part of the propoſition (as he cals it) and the 5 other reaſons unto the firſt part of the propoſi<g ref="char:EOLhyphen"/>tion But what precept of Logicke, or Grammar I have tranſgreſſed in not making ſuch a diſtribution, or application of his reaſons, he doth not acquaint you.</p>
+                  <p>But the Doctor directs you unto <hi>two wayes</hi> for the finding out of his meaning.</p>
+                  <p>The <hi>Firſt</hi> to leave out the ſecond clauſe, and the reaſon relating unto it. <hi>If I had</hi> (ſaith he) <hi>left out the latter part of the propoſition, and the reaſons relating to it, my ſenſe had been as compleat, and my argument not the worſe, and my diſ<g ref="char:EOLhyphen"/>courſe no leſſe pertinent.</hi>
+                  </p>
+                  <p>But the ſecond clauſe being left in, perturbeth, and confoundeth the ſenſe, and occaſioneth the miſtake: and who (I pray) is to be blamed, the Dr for put<g ref="char:EOLhyphen"/>ting it into the <hi>Syntheſis,</hi> or I for ſtill keeping it in the Analyſis of his words? It would be a ſtrange, and unheard of way of analyſing, that a Reader ſhould loppe off two lines at a time of an authour: But it ſhould ſeeme wee are to make ſuch
+<pb n="6" facs="tcp:51124:6" rendition="simple:additions"/>defalkations to make your great Dr ſpeake ſenſe; only I would know by what warrant, and obligation.</p>
+                  <p>A <hi>ſecond way,</hi> which will make it extreamly plaine (as he tels you in the poſtſcript) is to make the ſecond part of the propoſition (as he termes it) and the reaſon relating unto it to be a <hi>Parentheſis.</hi>
+                  </p>
+                  <p>But, 1. that this was not brought in by way of Parentheſis, who is in the fault?</p>
+                  <p>Againe, 2. The Dr hath told us, that it is the ſecond part of the ſame pro<g ref="char:EOLhyphen"/>poſition with the foregoing clauſe, and if ſo, then it cannot be inſerted as a Pa<g ref="char:EOLhyphen"/>rentheſis betwixt it, and the following propoſition.</p>
+                  <p>And beſides, 3. If he bring in the words only by way of Parentheſis, I would faine know what is to be done with 2ly, in this caſe he muſt new figure, and num<g ref="char:EOLhyphen"/>ber his reaſons. That which he figureth to be the ſecond reaſon, muſt be the firſt, and his ſix reaſons will prove to be but five.</p>
+                  <p>The ſecond thing that he chargeth me with is diſingenuity. <hi>Beſides this</hi> (ſaith he) <hi>if Mr Jeanes had ſo much ingenuity, as he pretends to have Logicke, he would have perceived, &amp;c.</hi>
+                  </p>
+                  <p n="1">1. As what he ſpeakes of my pretending unto Logicke, I thinke unworthy of any anſwer, and ſhall leave it unto the Reader to judge of the wit, and ingenui<g ref="char:EOLhyphen"/>ty thereof.</p>
+                  <p n="2">2. It is no diſingenuous part in me to charge the Dr with a concluſion, that I prove his words to be guilty of: For as for his meaning, I cannot gueſſe at it, but by his words, but I believe the unpartiall Reader, will judge it a very high point of diſingenuity in the Dr, not to acknowledge the incommodious ſtructure of his words.</p>
+                  <p>But let us heare wherein my diſingenuity conſiſts. <hi>If Mr Jeanes</hi> (ſaith he) <hi>had ſo much ingenuity as he pretends to have Logicke, he would have perceived that for me to meane, what he ſayes I meane, had been the perfect deſtruction of all my diſ<g ref="char:EOLhyphen"/>courſe, and all my intention.</hi>
+                  </p>
+                  <p>If this be all; The Dr hath no reaſon to charge me with want of ingenuity in this particular; for I doe very well perceive, that for him to meane, what I ſay, his words hold forth (for as for any ſecret, and reſerved meaning, I have no<g ref="char:EOLhyphen"/>thing to doe with) had been the perfect deſtruction of all his diſcourſe, &amp;c. But I believe the Docto'rs meaning is, that it is an ingenuous part in me to think it poſſible, or probable for him to aſſert any thing, that is the perfect de<g ref="char:EOLhyphen"/>ſtruction of all his diſcourſe, and all his intention. Now this I utterly deny. I have no ſuch apprehenſion of the Doctor's infallibility; but take him to be a man as likely to contradict himſelfe, as other mortals.</p>
+                  <p>There is one thing more, that the Dr add's concerning our bleſſed Saviour, that concupiſcence taking it for thoſe deſires, which are purely naturall, and concrea<g ref="char:EOLhyphen"/>ted is no ſinne, becauſe it was in Chriſt.</p>
+                  <p>Unto which I anſwer that this is nothing unto the purpoſe; for the concupi<g ref="char:EOLhyphen"/>ſcence in controverſy is prerternaturall, and never created, or concreated by God.</p>
+                  <p>It is an inclination unto evill; and therefore irregular, and diſorderly: it is that which the Apoſtle termeth, <hi>the ſin, that dwelleth in him,</hi> Rom. 7.17: <hi>which made him doe that evill, which he would not,</hi> verſ: 19: <hi>which he hated,</hi> verſ: 15. <hi>The law of his members warring againſt the law of his mind,</hi> verſ: 23: <hi>the body of this death, from which be deſired to be delivered,</hi> verſ: 24: And (methinks) he
+<pb n="7" facs="tcp:51124:6"/>ſhould be affraid to aſcribe this concupiſcence unto Jeſus Chriſt, who was the Lambe of God without blemiſh, and without ſpot, 1 <hi>Pet.</hi> 1.19: holy, harme<g ref="char:EOLhyphen"/>leſſe, undefiled, ſeparate from ſinners, <hi>Heb.</hi> 7.26: And thus I have accor<g ref="char:EOLhyphen"/>ding unto the Doctor's deſire, taken notice of his anſwer, and ſhall not be ſo ha<g ref="char:EOLhyphen"/>ſty as to write any thing againſt him, but that I ſhall ſtay a convenient time to heare the uttermoſt, that he can ſay; and when our Paper ſhall be made pub<g ref="char:EOLhyphen"/>licke unto all the World, I doe not doubt but there will be more that will ac<g ref="char:EOLhyphen"/>cuſe him of incogitancy, than me of impertinency. Many ingenious and learned men, and ſome, that otherwiſe admire the Dr, have made the ſame conſtruction of his words, that I have, and thought that, he here forgat himſelfe. I am informed that the Dr in a letter unto you, tels you, that he deſires not to bee troubled with my trif<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng Logicke, I hope he reviles not Logicke as trifling, for then I know in what herd of writers to ranke him, and ſhould decline him as an irra<g ref="char:EOLhyphen"/>tionall adverſary, who is an enemy to the very art of reaſon.</p>
+                  <p>But it is not Logicke it ſelfe I believe, but my Logicke, that he thus be<g ref="char:EOLhyphen"/>ſpatters: and if it be ſo, I ſhall returne nothing unto this his cenſure, but leave you, and others his admirers to judge of the humility, and ingenuity thereof.</p>
+                  <p>I have heard that the Dr hath printed a very good Grammar, if he will alſo publiſh a Logicke, for the better information of ſuch triflers as my ſelfe, I doe aſ<g ref="char:EOLhyphen"/>ſure you, that I will very diligently peruſe it, and if it be more ſolid, weighty, and ſerious, than thoſe which I have hitherto read, give him many thankes for it.</p>
+                  <p>As for his laſt letter, I have not yet had the leaſure fully to peruſe it, but by that curſory view which I have taken of it, I find it to be as empty of reaſon, (though fuller of paſſion) as the former: you have given it out that it is unanſwera<g ref="char:EOLhyphen"/>ble; but I ſhall deſire you to have a little patience, and if I doe not give it a ſa<g ref="char:EOLhyphen"/>tisfying anſwer, I ſhall ſubmit unto what penance you will injoyne me. In great haſt I reſt.</p>
+                  <closer>
+                     <signed>Your affectionate freind, and ſervant, <hi>HENRY JEANES.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Chedzoy</hi> 
+                        <date>Auguſt 31. 1657.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Mr C. thought, that the Doctor's letter would ſuperſede all further diſputa<g ref="char:EOLhyphen"/>tion; but perceiving that I was unſatisfied, and that I intended a replication, he conveyed my objections unto the Doctor, which begat a very angry letter from him; unto which he would not vouchſafe ſo much as a ſuperſcription; but I ſaw the Contents concerned me, and therefore unto thee I ſhall preſent it, together with my anſwer thereunto, ſubmitting both unto thy cenſure, and ſo ſhall reſt</p>
+            <closer>
+               <signed>Devoted to thy ſpirituall ſervice <hi>HENRY JEANES</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="followup_correspondence">
+            <div type="letter__Taylor">
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I underſtand by my very good freind Mr <hi>T. C</hi> that you are very much troubled at a paſſage in my [further explication of originall ſin] <hi>pag: 496:</hi> The words are theſe <hi>[that every man is inclined to evill, ſome more, ſome leſſe, but all in ſome inſtances, is very true, and it is an effect, or condition of nature; but no ſinne properly.]</hi> The offence you conceive is becauſe, one of the reaſons I bring to prove it is, <hi>becauſe it is accidentall to nature, not intrinſecall and eſſentiall.]</hi>
+                  <pb n="8" facs="tcp:51124:7"/>upon this you fancy that I intend that all ſinne is intrinſecall and eſſentiall to nature: which indeed if I had ſaid, I had been as very a ſool as you conceive me, and worſe; for beſides the reaſons you are pleaſ'd to object, which I am no way by this concern'd to examine, I had deſtroyed my maine intention nay, that which I was proving in that very place; for my worke there was to prove that no ſinne is, or can be naturall.</p>
+               <p>Now then although I know you could eaſily have underſtood what I did and muſt meane there; yet becauſe you are pleaſed not to doe it; I will point in out to you. <hi>To be inclined to evill is an effect or condition of nature; but no ſinne properly,</hi> vizt: of nature; for that is the ſubject of the Queſtion: whether inclination to evill be an effect of <hi>nature,</hi> or an inherent principle of evill; a ſinne naturall and neceſſary. Now that it is not this; I doe ſuppoſe that reaſon, which you ſo miſconſtrued compe<g ref="char:EOLhyphen"/>tent: <hi>viz:</hi> It is not a naturall or neceſſary ſinne, not <hi>a ſinne of our nature, becauſe it is accidentall to nature, not int<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inſicall, not eſſentiall;</hi> If it be in our nature, it muſt be naturally inſeperable, it muſt be at firſt, it muſt be in all perſons, that have our nature. And this is my meaning; and that you may not be troubled at the word <hi>eſſential;</hi> I meane it not in the ſtrict <hi>phyſicall,</hi> but in the <hi>morall</hi> ſenſe; that which is not aſter our nature, but together with it in reall being: and I explicate it, by <hi>intrinſecall;</hi> I oppoſe it to <hi>accidentall;</hi> (in this reaſon) and to <hi>[ſuperinduc'd]</hi> in the next, Sir I did give an account to Mr C. in a letter to him, which I know was ſufficient, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; for <hi>cujus eſt loqui, ejus eſt interpretari;</hi> I told you perfectly what is my meaning, it is very plaine by the whole deſigne of that, that it muſt be my meaning; it is alſo cleare enough an very eaſy in the expreſſion, and therefore I now appeale to your ingenuity, whether you ought to have made ſuch tragedies with that which common ſenſe would have made plaine to you, unleſſe you had received a prejudice.</p>
+               <p>And now Sin, to your two ſyllogiſmes, be pleaſed to the ſubject of the two majors, to adde but this qualification; [naturall] and try if thoſe horrid conſequents will fol<g ref="char:EOLhyphen"/>low which you affixed to your own <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>But I ſhall for this once conſider the particulars.</p>
+               <p n="1">
+                  <hi>1. You charge</hi> it <hi>with nonſenſe;</hi> but with your favour you prove it moſt pitifully, your reaſon is, that to ſay [eſſentiall] is predicated of (ſin) in either of the two wayes, <hi>di<g ref="char:EOLhyphen"/>cendi pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſe,</hi> is ſuch pitifull and prodigious nonſenſe, that you thinke it not worthy of any ſe<g ref="char:EOLhyphen"/>rious reſutation: ſo that this is your argument [to ſay that ſin is eſſentiall is prodigious and pitifull nonſenſe; g. it is prodigious and pitiful nonſenſe] ſurely a good argument; or thus, that which is ſuch nonſenſe that you thinke not worthy of refutation, is certainly nonſenſe: but to ſay that ſinne is eſſentiall is ſuch nonſenſe that you thinke not worthy of refute: therefore it is nonſenſe. I doe not ſay your argument is nonſenſe, but I am ſure it is no argument, unleſſe a bold affirmative be a ſufficient proofe in your Logicke. But to the thing that ſinne is eſſentiall, is indeed falſe to ſay, but to ſay ſo, is not nonſenſe. And whereas you will ſuppoſe me to ſay ſo, you are uncharitable, and ſomething unreaſona<g ref="char:EOLhyphen"/>ble in it: for I was to prove that inclination to ſinne, was not a ſinne of our nature (as was pretended,) becauſe what was naturall, is intrinſecall and eſſentiall, as docibi<g ref="char:EOLhyphen"/>lity to man; which becauſe to be inclined to ſinne is not, g. it is not a ſin, <hi>viz:</hi> of nature.</p>
+               <p>In the next place you charge this with blaſphemy If I had lai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or meant what you pre<g ref="char:EOLhyphen"/>tend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; you had reaſon. But then pray conſider how your charge will returne really upon your ſelfe. For if it be blaſphemy to affirme God to be the Authour of ſinne; then what I deriv'd from Adam is no ſinne, for that Adam's ſinne ſhould deſcend upon me, I de<g ref="char:EOLhyphen"/>mand, who was the Author of that? If you pleaſe you may take time to conſider it; but in the interim, if you be pleaſed to read a little diſcourſe of mine called <hi>Deus juſtifica<g ref="char:EOLhyphen"/>tus,</hi>
+                  <pb n="9" facs="tcp:51124:7" rendition="simple:additions"/>you ſhall find my Queſtion not to be anſwered by you, if you have any regard to the authority, or to the reaſon of Mr <hi>Calvin,</hi> Dr <hi>Twiſſe,</hi> and ſome other Bigots of your par<g ref="char:EOLhyphen"/>ty. Your <hi>ſecond charge</hi> of Blaſpemy, is that my reaſon does by implication involve Chriſt in the guilt of ſinne; becauſe whatſoever is eſſentiall he had. But than if you remember, that I ſay not, that ſinne is eſſentiall; and that I bring the reverſe of this very argument againſt your party and opinion in ſome of my late diſcourſes, you have reaſon to ſhake the fire out of your owne boſome, not to tell me, that I burne. For if inclination to ſinne be a ſinne naturally, and derived from our Parents, I de<g ref="char:EOLhyphen"/>mand whether or no had not Chriſt all naturall deſires? If he had not, he was not a per<g ref="char:EOLhyphen"/>ſect man. If he had then all naturall deſire: are not natural ſins, for if you ſay they be you are the blaſphemer by the conſequence of your affirmative; not I: But God forbid that either of us ſhould. Your <hi>third</hi> reaſon alſo is as pretty. For firſt; I demand whether a poſſibility to ſinne be not of the nature of man (for that is all I mean by eſſentiall.) If it be not; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow came Adam to ſinne his firſt ſine? if it be; I aske whether ſhall the Saints in the reſurrection be raiſed up with it or no? <hi>If yea,</hi> then you blaſpheme God's full glorification of the Saints in the reſurrection, for <hi>impec<g ref="char:EOLhyphen"/>cability</hi> is certainly a part of their full glorification; <hi>If nay,</hi> then it is do blaſphemy to ſay that in the reſurrection the Saints ſhall be raiſed up without ſomething that is eſ<g ref="char:EOLhyphen"/>ſentiall to them, or of their nature. But Sir, what thinke you of <hi>mortality?</hi> is that eſſen<g ref="char:EOLhyphen"/>tiall, or of the nature of man? I ſuppoſe you will not deny it. But yet I alſo believe you will confeſſe that though we are ſowne a corruptible body, yet we ſhall be raiſed an incorruptible; and the mortall ſhall put on immortality. Once more, is it naturall to be naturall? that will not be denyed; but then remember that although to be naturall is eſſen<g ref="char:EOLhyphen"/>tiall, that is, of the eſſence of the body, yet the natural body ſhall riſe without it's naturality, it is ſowne a naurall body, it is raiſed a ſpirituall. So that you ſee if I had ſaid this which you charge upon me, which is ſo contrary to my thoughts, and ſo againſt my purpoſe, yet your arguments could not have overthrowns it. It is good advice, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. If you had been pleaſed to have learn'd my meaning, before you had publiſhed your diſlike, I ſhould have eſteemed my ſelfe oblig'd to you in a great acknowledgment: now you have ſaid very much evill of me, though I de<g ref="char:EOLhyphen"/>ſerv'd it not. For ſuppoſe I had not proſperouſly enough expreſſ'd my meaning; yet you who are a man of wit and parts could eaſily have diſcerned my purpoſe and my deſigne, you could not but know and conſider too, that my great deſigne was to ſay, that ſinne could not be natural; that it is ſo far from being eſſentiall, that us is not ſo much as ſubjected in our common nature, but in our perſons only. But beſide this Sir, I am a little to complaine of you, that when you had two words at your choice to explicate each other, (intrinſecall and eſſentiall) you would take the hardeſt and the worſt ſenſe, not the eaſieſt and moſt ready: for you cannot but know that (eſſentiall) is not alwayes to be taken in the ſtricteſt ſenſe of Philoſophy <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or that which is conſtitutive of a nature; but largely and for all ſorts of proprieties, and the univerſall accidents of nature; as it is eſſentiall to man to laugh, to be capable of learning, to be mortall, to have a body of con<g ref="char:EOLhyphen"/>trary qualities, and conſequently by nature corruptible; and in a morall diſcourſe to call for metaphyſicall ſignifications, and not to be content with morall and generall, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y proceed from an itch to quarrel, but not from that ingenuity which will be your and my beſt ornament.</p>
+               <p>Although I have not much to doe with it, yet becauſe you are ſo great a Logician, and ſo great an admirer of that, which everyone of your Pupils knowes I meane, Prophyr'es de<g ref="char:EOLhyphen"/>finition of an accident: I care not if I tell you, that the definition is imperfect and falſe, it is not convertible with the Definitum. For even eſſentiall things may be taken away, <hi>ſine interitu ſubjecti.</hi> I inſtance: to be quantitative, is eſſentiall to a body, and to
+<pb n="10" facs="tcp:51124:8"/>have ſucceſſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of duration; but yet in the reſurrection, when bodies ſhall be ſpiritual and eternal, thoſe other which are now Eſſential predicates ſhall be taken away, and yet the ſubject remain, and be improv'd to higher and more noble predicates. This I have here ſet down, not that I at all value the probleme whether it be ſo or no; but that you may not think me a Socinian particularly in this Article, or that I think the bodies in the reſurrection ſhal be ſpecifically diſtinct from what they are: I believe them the ſame bodies, but enabled in their very beings: For to a specifical and ſubſtantial change, is required that there be an introduction of new forms; but yet the improving of Eſſential, predi<g ref="char:EOLhyphen"/>cates, is no specification of ſubjects, but melioration of the firſt: But the conſequent is, that <hi>abeſſe, &amp; adeſſe, &amp;c.</hi> is not an excellent definition of an accident. And yet further, it follows, That if ſin were as eſſential to a man, as mortality is, or to be quantitative, yet there is no more need that a man ſhould riſe with ſin, then with mor<g ref="char:EOLhyphen"/>tality: But <hi>Ariſtotles</hi> Philoſophy, and <hi>Porphyries</hi> Commentary, are but ill meaſures in Theology; and you ſhould do well to ſcoure bright that armor in which you truſt, which unleſs it be prudently conducted, it will mak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a man a Sophiſter, rather then a Theo<g ref="char:EOLhyphen"/>log<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; but you are wiſer. I have onely this one thing to adde, That the common diſ<g ref="char:EOLhyphen"/>courſes of Original ſin, make ſin to be natural, neceſſary and unavoidable; and then may not I uſe your own words? <hi>This Tenet is chargeable with Libertiniſm: It is a licentious Doctrine, and opens a gap to the greateſt prophaneneſs: For it takes a<g ref="char:EOLhyphen"/>way all conſcience of ſin, all repentance of it for the time paſt.</hi> If ſin be natu<g ref="char:EOLhyphen"/>ral, neceſſary, and unavoidable, as it is to us, if we derive it from <hi>Adam, &amp;c. What reaſon hath he to be humbled for it, and to ask God pardon for it?</hi> ſo that you have done well againſt your own Opinion; and if I had not uſed the argument before, I ſhould have had reaſon to thank you for it: Now as it is, you are further to conſider it, not <hi>I.</hi> Sir, Though I have reaſon to give you the priority in every thing elſe, yet in civility <hi>I</hi> have far out done you: You were offended at a paſſage, which you might eaſily, but would not underſtand: You have urged arguments againſt me, which return upon your own head: The Propoſition you charge me withal, I own not in any of your ſenſes, nor (as you ſet it down) in any at all; and yet your Arguments do not ſubſtantially or rationally confute it, if <hi>I</hi> had ſaid ſo: Beſides all this, you have uſed your pleaſure upon me, you have revil'd me, ſlighted me, ſcorn'd me, untempted, unprovoked<g ref="char:punc">▪</g> you never ſent to me civilly to give you ſatisfaction in your objection: but talk'd it in my abſenſe, and to my prejudice; yet <hi>I</hi> have ſent you an anſwer, I hope ſatisfactory, and together with it a long Letter, which in the midſt of my many affairs, and ſtraitned condition, is more then <hi>I</hi> can again afford: And after all this, <hi>I</hi> aſſure you that <hi>I</hi> will pray for you, and speak ſuch good things of you, as <hi>I</hi> can finde, or hear to be in you, and profeſs myſelf, and really be,</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Auguſt 15. 1657.</hi>
+                     </date>
+                  </dateline>
+                  <salute>Sir,</salute> 
+                  <signed>
+                     <hi>Your affectionate Friend and Servant in our bleſſed Lord and Saviour Ieſus.</hi> Jer: Taylor.</signed>
+               </closer>
+               <postscript>
+                  <pb n="11" facs="tcp:51124:8"/>
+                  <head>Poſtſcript.</head>
+                  <p>
+                     <hi>Sir, I</hi> received yours late laſt night, and <hi>I</hi> have returned you this, early this morning, that <hi>I</hi> might in every thing be respective of you; but <hi>I</hi> deſire not to be troubled with any thing that is not very material; for <hi>I</hi> have buſineſs of much greater concernment; nei<g ref="char:EOLhyphen"/>ther can <hi>I</hi> draw the ſaw of contention with any man about things leſs pertment. <hi>I</hi> ex<g ref="char:EOLhyphen"/>pect no anſwer, <hi>I</hi> need none, <hi>I</hi> deſire none; but expect that you will imploy your good parts in any thing rather, then in being <hi>ingenioſus in alieno libro:</hi> Your talents can better (if you pleaſe) ſerve God, then by cavelling with, or without reaſon.</p>
+               </postscript>
+            </div>
+            <div type="response__Jeanes">
+               <head>To the Reverend and Learned, Dr. <hi>Jeremy Taylor.</hi>
+               </head>
+               <opener>
+                  <salute>SIR.</salute>
+               </opener>
+               <p>WHat you mean, by my being very much troubled at a paſſage in your fur<g ref="char:EOLhyphen"/>ther Explication of Original Sin, I know not; Indeed I expreſſed unto Mr. <hi>T. C.</hi> my diſlike of it, and charged it with nonſenſe and Blaſphemy: And this charge I have proved; and now ſhall briefly vindicate the proof of it, from your Reply in this my Rejoynder. You tell me, that your work in that very place, is to prove, That no ſin is, or can be natural: Now I cannot finde any thing ſound<g ref="char:EOLhyphen"/>ing that way within forty lines of theſe words; and that it was my duty to look fur<g ref="char:EOLhyphen"/>ther for the Coherence of them, I confeſs, I knew not. Another great miſtake al<g ref="char:EOLhyphen"/>ſo, it ſeems I have committed; in that I have not ſo high thoughts of you, as to think it impoſsible, or very unlikely, that you ſhould be ſo uncautelous as to drop any contradiction unto your main intention: And this is an error that I can hardly ſhake off as yet; but I do aſſure you, that I ſhall endeavour to have as reverend an opinion of you as I poſsibly can; onely, I ſhall never exempt you from a poſsibility of erring: never think that you ſit upon a Chair made of Iriſh Timber, that can<g ref="char:EOLhyphen"/>not endure a venomous Spider to hang his web thereon. I ſhall, for that which followeth, inſert the words of your Letter verbatim, that the Reader may the better compare them and my anſwer together.</p>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Now although I know you could eaſily have underſtood what I did, and muſt mean there; yet, becauſe you are pleaſed not to do it, I ſhall point it to you.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>I wonder why you ſhould think it ſo eaſie a matter to underſtand your meaning, ſeeing you, who are the Author, differ from your ſelf in aſsigning what it is; for in your Letter unto Mr. <hi>C.</hi> you apportion'd this ſecond Reaſon ſolely unto the firſt Clauſe; <hi>That every man is inclined to evil, ſome more, ſome leſs, but all, in ſome in<g ref="char:EOLhyphen"/>ſtances is very true:</hi> And here in your Letter to me, you apply it unto the ſecond Clauſe: <hi>It is an effect or condition of nature, but no ſin properly.</hi> Suppoſe I were at a loſs, yet you have no reaſon to blame me, until you agree with your ſelf: I have no Spectacles to look into your meaning, but your words, and that they were rela<g ref="char:EOLhyphen"/>ted onely unto one Propoſition, as a reaſon thereof; and yet related to two Propo<g ref="char:EOLhyphen"/>ſitions, as a proof of each, was a thing that I could never poſsibly divine, nor
+<pb n="12" facs="tcp:51124:9"/>cannot yet underſtand; and herein, I am afraid, you are as unable to teach me how this can be, as I am uncapable of learning; but if you can teach any ſuch thing unto me, you ſhall finde me, though perhaps not an apt, yet a willing and thankful Scholar: But to deal plainly with you, I am very confident that your words in themſelves hold forth neither of thoſe ſenſes that you propound; and if by dint of argument you can prove either of them from your words, you ſhall have my moſt penitent and ſubmiſsive confeſsion of my miſtake, and ſhall have full leave to preſcribe me as publick and ſhameful a ſatisfaction, as you can think on; unto which, I do promiſe to conform my ſelf. But let us hear how you point out your meaning to me.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Yet becauſe you are pleaſed not to underſtand what I did, and muſt mean there, I will point it out to you: To be inclined to evil, is an effect or condition of nature, but no ſin properly,</hi> viz. <hi>of nature; for that is the ſubject of the queſtion, whether inclination unto evil be an effect of nature, or an inherent principle of evil; a ſin natural and ne<g ref="char:EOLhyphen"/>ceſſary? Now that it is not this, I do ſuppoſe that reaſon, which you ſo miſconſtrued, competent,</hi> viz. <hi>it is not a natural, or neceſſary ſin, not a ſin of our nature, becauſe it is accidental to nature, not intrinſecal, not eſſential.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>To reſcue your ſecond reaſon from that which I charge it with, you are fain to make an additional ſupply unto the Propoſition; unto which, you ſay, your ſecond reaſon is competent. To be inclined to evil, <hi>&amp;c.</hi> is no ſin properly, no natural and neceſſary ſin, no inherent Principle of evil. Now unto this addition I ſhall apply your words that you have concerning <hi>Binius</hi> and <hi>Baronius</hi> in the like caſe; whe<g ref="char:EOLhyphen"/>ther it <hi>may be allowed you by any licenſe, leſs then Poetical, let Criticks judge:</hi> Surely, Sir, if the moſt of your Writings be thus elliptical, they will be unintelligible un<g ref="char:EOLhyphen"/>to me without a Commentary, and if you muſt be indulged the liberty of making ſuch interpolations, all the Vniverſities in Chriſtendom are no match to diſpute with you.</p>
+                     <p>But to inſiſt a little upon the examination of this Interpolation.</p>
+                     <p n="1">1. You ſeem to make equivalent theſe two propoſitions; <hi>Inclination to evil, is an inherent principle of evil; Inclination to evil, is a ſin naturall and neceſſary:</hi> But I am utterly unſatisfied touching this their equivalency, and ſhall deſire you to clear it up unto me.</p>
+                     <p>Nay further, I very much queſtion the truth of the firſt Propoſition; <hi>this inclina<g ref="char:EOLhyphen"/>tion to evil,</hi> is not <hi>as inherent principle of evil;</hi> and ſhall intreat you to inform me, whether you deny it to be a <hi>principle</hi> of evil, or an <hi>inherent principle,</hi> and think it onely <hi>adherent, circumſtant,</hi> or the like: but I believe you will tell me of ſome Ellip<g ref="char:EOLhyphen"/>ſis in your words, that I ought to underſtand, and ſupply ſomething to make out your ſenſe: What it is, I will not adventure to gueſs at, but leave it to you to expreſs it your ſelf.</p>
+                     <p>
+                        <hi>Secondly,</hi> The concluſion that is confirmed by your ſecond Reaſon, is the ſame with that which is proved by your firſt Reaſon; and that was, that inclination to e<g ref="char:EOLhyphen"/>vil was no ſin, without the additional Epithets of <hi>natural</hi> and <hi>neceſſary. It is no ſin, ſay you, properly; becauſe, that which is unavoidable, is no ſin:</hi> and indeed, the un<g ref="char:EOLhyphen"/>avoidableneſs of our inclination to evil, may be a probable argument that it is no
+<pb n="13" facs="tcp:51124:9"/>ſin, and require an anſwer; but no competent reaſon at all to prove it not to be natural and neceſſary: But ſeeing you ſay, it muſt be your meaning that theſe Epi<g ref="char:EOLhyphen"/>thets ſhould be interpoſed, we will for once ſuppoſe it, for Diſputation ſake, and ſee whether we can underſtand by any means what you would have.</p>
+                     <p n="1">1. You ſay, your meaning in your concluſion is, that <hi>Inclination to evil is no ſin,</hi> viz. <hi>of nature,</hi> which I ſhall conſider anon, when I ſhall come to examine that ſubtilty of yours, <hi>That ſin is not ſo much as ſubjected in our common nature.</hi>
+                     </p>
+                     <p n="2">2. Let us inquire what you mean by <hi>natural</hi> and <hi>neceſſary.</hi>
+                     </p>
+                     <p n="1">1. What you mean by <hi>natural:</hi> There be divers ſignifications of the word natu<g ref="char:EOLhyphen"/>ral, which are impertinent to our preſent Diſcourſe, and therefore I ſhall omit them. I ſuppoſe that you take natural, either for that, which is ſo termed, <hi>in regard of con<g ref="char:EOLhyphen"/>nexion with our nature;</hi> or elſe in reſpect of <hi>Phyſical, and neceſſary reſultancy from our nature.</hi>
+                     </p>
+                     <p>If you take it for that, which is ſo termed, <hi>in regard of connexion with our nature,</hi> which is coeval with our nature, derived unto us in the Nativity and Conception of our nature, then your <hi>ſecond Reaſon</hi> is Tautological, a moſt pitifull and miſer<g ref="char:EOLhyphen"/>able begging of the queſtion, for you tell us afterward, that by eſſential, you mean that <hi>which is not after our nature, but together with it</hi> in real being; and then, there will be no more difference betwixt eſſential and natural, in this acception of it, then there is betwixt <hi>enſis</hi> and <hi>gladius,</hi> and ſo your Argument explained will ſtand thus.</p>
+                     <p>Inclination to evil is not connexed with our nature; becauſe it is not connexed with our nature: it is not coeval with our nature, derived unto us in the Conception and Nativity of our nature; becauſe it is after our nature, and not together with it in real being.</p>
+                     <p n="2">2. If you take natural, <hi>in regard of neceſſary reſultancy from our nature;</hi> then your Argument is impertinent, and concerns not thoſe whom you oppoſe; for they deny, as well as you, that inclination unto evil is natural in ſuch a ſenſe: Let two ſpeak for all.</p>
+                     <p>Firſt, <hi>Biſhop Davenant</hi> in his Determinations, where his determination of the ſixteenth Queſtion, is, <hi>Pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>itas ad malum non fluit ex principiis naturae integrae.</hi>
+                     </p>
+                     <p>The ſecond is <hi>Dr. Baro</hi> in his Metaphyſicks, <hi>pag.</hi> 256. <hi>Theologi noſtri aſſerunt, concupiſcentiam nul'o modo eſſe quid neceſſario conſequens naturam humanam in ſe spe<g ref="char:EOLhyphen"/>ctatam; &amp; ideo dicu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t eam eſſe quid ſuperadditum, &amp; adventitium, in animo homi<g ref="char:EOLhyphen"/>nis exiſtens poſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>apſum.</hi>
+                     </p>
+                     <p>But perhaps you may pitch upon ſome other acception of natural; if you doe, I ſhall beſeech you not to chide me, but to certifie my miſtake by explication of your meaning; for I have done my beſt to bolt it out, and muſt needs profeſs, that I can<g ref="char:EOLhyphen"/>not gueſs at any other ſignification of natural, which you can here in this place with any probability pretend unto: But if you can acquaint me with any other, when I know it, I ſhall be ready to examine it.</p>
+                     <p>But to proceed unto the next Epithete <hi>neceſſary:</hi> When you ſaid, that an incli<g ref="char:EOLhyphen"/>nation to evil was not properly a ſin, your meaning was (you ſay) that it was not a neceſſary ſin.</p>
+                     <p>But then I deſire to know how your firſt Reaſon will be ſuited unto this concluſion, for your firſt Reaſon ſtands thus, becauſe that which is unavoidable, is not ſin; and I would intreat you alſo to inform us, what is the difference here betwixt neceſſary and unavoidable; for if there be no difference, I ſhall ſhrewdly ſuſpect your argu<g ref="char:EOLhyphen"/>ments ſick of that infirmity, called <hi>petitio principii.</hi>
+                     </p>
+                     <pb n="14" facs="tcp:51124:10"/>
+                     <p>But perhaps we muſt here make the like ſupply, and underſtand you thus, becauſe that which is unavoidable is not a neceſſary ſin; if ſo, your Argument reduced un<g ref="char:EOLhyphen"/>to form, will run thus.</p>
+                     <p>Nothing that is unavoidable can be a neceſſary ſin: But an inclination to evil is unavoidable: Therefore it is not a neceſſary ſin.</p>
+                     <p>Vnto your major I ſay, that though unavoidableneſs, in one ſenſe, may carry a repugnancy unto ſin, yet not to neceſſary; it may prove a thing not to be a ſin, but it makes nothing againſt its being neceſſary; for that which is unavoidable, may be, and is neceſſary; it is probable therefore, that neceſſary was never in your firſt thoughts, but put in, to ſecure your ſecond Reaſon from mine Objections a<g ref="char:EOLhyphen"/>gainſt it.</p>
+                     <p>However, yet I ſhall here propound and apply a diſtinction of neceſſary, uſuall among your Antagoniſts:
+<note n="*" place="margin">Dr. <hi>Edw: Reynolds</hi> 3 Treatiſes, <hi>pag:</hi> 209.</note> A thing, ſay they, may be ſaid to be neceſſary, in re<g ref="char:EOLhyphen"/>gard of either <hi>primitive and created, or conſequent and contracted neceſſity.</hi>
+                     </p>
+                     <p>If you ſpeak of that, which is neceſſary with that neceſſity, which is <hi>primitive</hi> and <hi>created,</hi> then indeed I grant your concluſion true, and your ſecond reaſon compe<g ref="char:EOLhyphen"/>tent unto it: Inclination unto evil is not a neceſſary ſin, in regard of a Primitive and Created neceſsity.</p>
+                     <p>But now this were utterly beſides the main of your intention, for here you would ſight with nothing but your own ſhadow, becauſe your adverſaries do not avouch ſuch a neceſſity in our inclination to evil, but defie and abhor it more then your ſelf; and you cannot affix any ſuch thing unto them, unleſs you groſly calumni<g ref="char:EOLhyphen"/>ate them.</p>
+                     <p>If you ſpeak of that which is neceſſary, with a <hi>conſequent and contracted neceſſi<g ref="char:EOLhyphen"/>ty;</hi> then your concluſion is falſe, and your ſecond reaſon no confirmation thereof; if it be put into form, it will make up two Syllogiſms.</p>
+                     <list type="syllogism">
+                        <head>The firſt Syllogiſin.</head>
+                        <item>Nothing that is accidental, can be a ſin neceſſary, with a conſequent and contra<g ref="char:EOLhyphen"/>cted neceſſity.</item>
+                        <item>But our inclination to evil is accidental.</item>
+                        <item>Therefore it is not a neceſſary ſin in reſpect of a conſequent and contracted ne<g ref="char:EOLhyphen"/>ceſſity.</item>
+                     </list>
+                     <list>
+                        <head>The ſecond Syllogiſm.</head>
+                        <item>Every thing that is neceſſary in reſpect of a conſequent and contracted neceſſity, is intrinſecal and eſſential.</item>
+                        <item>But inclination to evil is not intrinſecal and eſſential.</item>
+                        <item>Therefore it is not neceſſary, in regard of a conſequent and contracted ne<g ref="char:EOLhyphen"/>ceſſity.</item>
+                     </list>
+                     <p>The major in both Syllogiſms is evidently falſe, as will appear, when you attempt the proof of them: and I am very confident, you never will own them, if you can any other way ſhift off my objections.</p>
+                     <p>In the next place, we have a ſtrange Paradox of yours, which I underſtand not, I ſhall propound it, and briefly conſider it.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>If it be in our nature, it muſt be naturally inſeparable, it muſt be at firſt, it muſt be in all perſons that have our nature.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <pb n="15" facs="tcp:51124:10"/>
+                     <head>Jeanes.</head>
+                     <p>I ſhall not peremptorily charge this Propoſition with falſhood, until I know how you explicate it, and yet I will tell you what reaſon I have to ſuſpect it to be very falſe; divers accidents are in our nature, properly and ſtrictly inherent in our na<g ref="char:EOLhyphen"/>ture, which yet are naturally ſeparable from our nature, which were not at firſt, which are not now in all perſons that have our nature: I might inſtance in ſeveral acquired habits, and immanent acts of the rational ſoul, which are neither ade<g ref="char:EOLhyphen"/>quate unto, nor coeval with, nor naturally inſeparable from it.</p>
+                     <p>But I look for ſome ſtrange Ellipſis; a Rhetorical Scheme it ſeems you are much delighted with; but if you uſe it too often, it will prove rather a Weed, then a Flower in your Rhetorick; you expect, it ſeems, I ſhould pay ſuch reverence unto your Writings, as great Criticks do unto the Ancients, in whoſe words, when they cannot make ſenſe, they ſuppoſe ſome <hi>Chaſma</hi> to fill up, with which they torture their brains; but I have ſomething elſe to do, then to trouble my ſelf with Divinations at your meaning: when you vouchſafe to acquaint us what it is, I ſhall then examine it.</p>
+                     <p>But having ſeen how ill you have ſped in new ſhaping your concluſion, let us ſee next whether your ſucceſs be better in the qualification of your ſecond reaſon for it.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>And this is my meaning, and that you may not be troubled at the word Eſſential; I mean it not in the ſtrict Phyſical, but in the moral ſenſe, that which is not after our na<g ref="char:EOLhyphen"/>ture, but together with it in real being, and explicate it by extrinſecal; and I oppoſe it to accidental in this reaſon, and to ſuperinduc'd in the next.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>But firſt, pray who could tell that you thus meant it, until you now tell me: Is this a uſual and received ſenſe of the word? and if it be, direct me unto thoſe mo<g ref="char:EOLhyphen"/>ral Philoſophers and Divines, that thus take it; if it be not, my ignorance of it is <hi>purae negationis,</hi> not <hi>pravae dispoſitionis,</hi> not privative and blameable: <hi>Analogum per ſe poſitum ſtat pro famoſiori Analogato;</hi> and therefore I appeal unto your own inge<g ref="char:EOLhyphen"/>nuity, whether I have injured you, by ſuppoſing that you took Eſſential in the ac<g ref="char:EOLhyphen"/>cuſtomed acception thereof.</p>
+                     <p n="2">2. I ſhall beſeech you to ſet down the difference that you make betwixt natural in your concluſion, and eſſential in your ſecond reaſon for it; and when you have done this, I am very confident to make it appear, that your Argument is either a meer tautology, or an utter impertinency; but of this before.</p>
+                     <p>Next you refer me unto your former Letter unto Mr. <hi>C.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Sir, I did give an account unto Mr.</hi> C. <hi>in a Letter to him, which I know was ſuf<g ref="char:EOLhyphen"/>ficient, and</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>The vanity of this brag you will ſoon acknowledge, when you ſhall compare that Letter with this unto me; for in this you apply the ſecond reaſon unto the latter cauſe
+<pb n="16" facs="tcp:51124:11" rendition="simple:additions"/>as a congruent proof; it <hi>it is an effect, or condition of nature, but no ſin properly:</hi> And this you point out to be your meaning, and ſay, That I could eaſily have un<g ref="char:EOLhyphen"/>derſtood it: But in your Letter to Mr. <hi>C.</hi> you aver, that this ſecond reaſon is ap<g ref="char:EOLhyphen"/>pliable onely unto the firſt clauſe; <hi>That every man is inclined to evil, ſome more, ſome leſs, &amp;c.</hi> and not at all unto the ſecond; nay, that it is not appliable unto it, with<g ref="char:EOLhyphen"/>out a miſtake of not onely the ſecond, but the four other reaſons alſo; and of this too, you ſay that it muſt be your meaning, and that 'tis clear enough, and eaſie in the expreſſion; and you wonder that Mr. <hi>Jeanes,</hi> if he be the man, that he would be thought could miſtake it: Here you propound inconſiſtent and contrary meanings, and it ſeems you intend to tie me unto ſuch hard meat, as that I muſt finde out each to be your meaning; but this is a task, that my underſtanding cannot perform, and therefore I ſhall beg aſſiſtance from the light and learning of yours: and until you afford this, I ſhall offer unto your conſideration this common rule in Logick, <hi>That contrary propoſitions cannot be both true, but one of them muſt needs be falſe:</hi> But theſe two propoſitions, this ſecond reaſon is referred unto the ſecond clauſe, as a competent proof, and this ſecond reaſon is not referred unto the ſecond clauſe, are contrary propoſitions; the oppoſition betwixt ſingular propoſitions, being, as <hi>Scheibl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r</hi> well ſheweth, <hi>de prop: cap.</hi> 11. <hi>num.</hi> 18. moſt aptly reducible unto contrariety; and yet both theſe propoſitions are yours, the firſt in this letter, the latter in your former letter, and therefore one of them muſt needs be falſe; you are not then ſo much <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>extra teli factum,</hi> out of Gun-ſhot, but that my poor trifling Logick is able to reach you: if you ſhould deny the matter of Fact, that both theſe propoſitions, are yours, your letters will convince you of untruth, and I ſhall need no more then to tranſcribe your own words: The firſt Propoſition you have in theſe words of this Letter, <hi>To be inclined to evil, is an effect, or condition of nature, but no ſin properly,</hi> viz. <hi>of nature,</hi> &amp;c. <hi>a ſin natural and neceſſary; now that it is not this, I do ſuppoſe that reaſon, which you ſo miſconſtrued, is competent,</hi> &amp;c. The ſecond, in ſeveral paſſages of your former Letter; <hi>as for the other clauſe, it is an effect, or condition of nature,</hi> but no ſin properly, that was the leſs principal part of the Propoſition, and to it one<g ref="char:EOLhyphen"/>ly the firſt reaſon was apportioned; and again afterward, none of the other reaſons, the firſt onely excepted, relate to the latter part of the Propoſition: But let us hear your reaſon for the ſufficiency of your Letter unto Mr. <hi>C.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>For <hi>cujus eſt loqui, ejus eſt interpretari.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>I ſhall willingly grant you all fair liberty of interpreting your ſelf, ſo you do it lo<g ref="char:EOLhyphen"/>gically and rationally; but that which you expect, is rather a licentiouſneſs, then a true liberty of interpretation.</p>
+                     <p>
+                        <hi>Firſt,</hi> You would have a <hi>licenſe</hi> of <hi>transportation,</hi> to carry your words where you pleaſe; you would have the ſecond reaſon placed betwixt the two Propoſitions, and before the firſt Reaſon; thus in your Letter to Mr. <hi>C.</hi>
+                     </p>
+                     <p>
+                        <hi>Next,</hi> You uſurp the <hi>licenſe</hi> of <hi>interpoſition,</hi> to put in what you pleaſe; as when in this Letter you adde the Epithets of natural and neceſſary to ſin.</p>
+                     <p>And <hi>thirdly,</hi> You take up a ſtrange <hi>licenſe</hi> in <hi>expoſition</hi> of your Terms; for if you cannot juſtifie what you ſay, if ſuch a term in your words be taken in the common
+<pb n="25" facs="tcp:51124:11"/>and uſual ſenſe: Then you impoſe upon me an unuſual, that I ſay not a new and un<g ref="char:EOLhyphen"/>heard of ſignification thereof. Thus you deal with the word Eſſential.</p>
+                     <p>And <hi>laſtly,</hi> You aſſume a <hi>licenſe</hi> of <hi>contradiction,</hi> to contradict your ſelf, to ſay and unſay; one while to make this your meaning, and another time to make that which is contrary your meaning; and you think that I am obliged to take theſe con<g ref="char:EOLhyphen"/>trary meanings to be both your meanings.</p>
+                     <p>Surely Sir, if you can get a Patent for theſe four Licenſes, you will, for matter of Diſputation, be ſhot-free and invulnerable; your Opponents may throw their caps at you, but not an Argument of theirs can touch you.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>I told you perfectly what is my meaning, it is very plain by the whole deſign of that, that it muſt be my meaning, it is alſo clear enough, and very plain, and very eaſie in the expreſſion; and therefore I now appeal to your ingenuity, whether you ought to have made ſuch Tragedies with that, which common ſenſe would have made plain unto you, un<g ref="char:EOLhyphen"/>leſs you had received a prejudice.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>As for this triumphant appeal which you make in the cloſe here to my ingenuity, I need ſay nothing, but refer unto the premiſes; onely I cannot but give one Ad<g ref="char:EOLhyphen"/>vertiſement unto your Diſciples, that you ſometimes triumph when you have not con<g ref="char:EOLhyphen"/>quered.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Tayler.</hi>
+                  </head>
+                  <p>
+                     <hi>And now Sir, to your two Syllogiſms, be pleaſed to the ſubject of the two Majors, adde but this qualification [natural] and try if thoſe horrid conſequents will follow, which you affixed to your own <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>I have already conſidered with how little ſobriety you have added this Qualifica<g ref="char:EOLhyphen"/>tion of natural, and, I believe, the impartial Reader will conclude with me, that you have foiſted it in upon ſecond thoughts, onely to avoid thoſe horrid conſequents, unto which your words in themſelves are liable.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>But I ſhall for this once conſider the particulars.</hi> 1. <hi>You charge it with non ſenſe; but with your favor you prove it moſt pitiſully: Your reaſon is, that to ſay [Eſſential] is predicated of [ſin.] in either of the two ways</hi> dicendi per ſe, <hi>is ſuch pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ful and prodigious non-ſenſe, that you think it not worthy of any ſerious r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſutation: So that this is your Argument,</hi> To ſay that ſin is Eſſential, is prodigious and pitiful non-ſenſe, therefore it is prodigious and pitiful non-ſenſe.</p>
+                  <p>
+                     <hi>Surely a good Argument; or thus, that which is ſuch non-ſenſe that you think not wor<g ref="char:EOLhyphen"/>thy of refutation, is certainly non-ſenſe: But to ſay that ſin is Eſſential, is ſuch non-ſenſe, that you think not worthy of refutation, therefore it is non-ſenſe. I do not ſay your Ar<g ref="char:EOLhyphen"/>gument is non-ſenſe, but I am ſure it is no Argument, unleſs a bold affirmative be a ſuf<g ref="char:EOLhyphen"/>ficient proof in your Logick. But to the thing, That ſin is Eſſential, is indeed falſe to ſay, but to ſay ſo is not non-ſenſe. And whereas you will ſuppoſe me to ſay ſo, you are
+<pb n="18" facs="tcp:51124:12"/>uncharitable, and ſomething unreaſonable in it; for I was to prove, That inclination to ſin was not a ſin of our nature (as was pretended) becauſe what was natural is i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rinſecal and eſſential, as Doc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bility to a man: which becauſe to be inclined to ſin is not, therefore it is not a ſin,</hi> viz. <hi>of nature.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>Firſt, Here is a groſs and egregious falſification of my words, and that without any advantage to your cauſe: Your reaſon is, ſay you, That to ſay Eſſential is pre<g ref="char:EOLhyphen"/>dicated of ſin in either of the two ways, <hi>dic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ndi per ſe,</hi> is ſuch pitiful and prodigi<g ref="char:EOLhyphen"/>ous nonſenſe, that you think it not worthy of any ſerious refutation: Whether theſe words be juſtifiable, or no, I need not inquire; for there are no ſuch words in my Paper, neither can you, with all your wit and learning, infer any ſuch matter therefrom.</p>
+                     <p>Secondly, To make ſport for your followers, you miſ-repreſent my Argument; and firſt, clap it into a ſingle Enthymeme, and then into one Syllogiſm, both of your own forging; in both which you leave out two mediums, that are in my Ar<g ref="char:EOLhyphen"/>gument, which reduced unto form, will make up two Syllogiſms: To convince you of this unfair, injurious, and diſ-ingenuous dealing, I ſhall inſert my words at large. <hi>To ſay (as the Doctor doth by conſequence) that ſin is eſſential to the nature of man, is an aſſertion guilty of nonſenſe; a thing may be ſaid to be eſſential to another, à priori, and then it is predicated of it in primo modo d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cendi per ſe; or elſe à poſteri<g ref="char:EOLhyphen"/>ori, and then it is predicated of it in ſecundo modo dicend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> per ſe. And to ſay that ſin is either of theſe ways eſſential to the nature of man, is ſuch pitiful and prodigious non<g ref="char:EOLhyphen"/>ſenſe, as that I cannot think it worthy of any ſerious refutation.</hi>
+                     </p>
+                     <p>The learned Reader will ſoon perceive how little alliance your Enthymeme and Syllog<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſm have with my Argument; and to him I appeal, to judge of the unwor<g ref="char:EOLhyphen"/>thy and unſcholarly in jury that you have herein done me; but yet, for the eternal ſtopping of your mouth, I ſhall Analyze this my Argument. My concluſion was, that to ſay (as you do by conſequence) that ſin is eſſential unto the nature of man, is an aſſertion guilty of nonſenſe; this I prove from a diſtribution of eſſential;
+<list>
+                           <item>whatſoever is <hi>eſſential is ſuch,</hi> either <hi>à priori,</hi> or <hi>à poſteriori.</hi>
+                           </item>
+                           <item>But to ſay that ſinne is eſſential, either <hi>à priori,</hi> or <hi>à poſteriori,</hi> is non<g ref="char:EOLhyphen"/>ſenſe.</item>
+                           <item>Therefore to ſay that ſin is eſſential to man, is nonſenſe.</item>
+                        </list>
+                     </p>
+                     <p>This Syllogiſm is grounded upon a known and received Maxime <hi>[Negatis cunctis partibus ſubjectis totius univerſalis de aliquo ſubjecto negatur ipſum to um univerſale, negatis cunctis membris dividen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ibus, negatur ipſum diviſum]</hi>
+                     </p>
+                     <p>The <hi>major</hi> I preſumed none would deny, and as for the <hi>minor,</hi> that I proved from a deſcription of both ways of being eſſential.</p>
+                     <p>That which is eſſential to a thing, <hi>à priori,</hi> is predicated of it in <hi>primo modo di<g ref="char:EOLhyphen"/>cendi per ſe;</hi> that which is eſſential to a thing, <hi>à poſteriori,</hi> is predicated of it in <hi>ſe<g ref="char:EOLhyphen"/>cundo modo dicendi per ſe.</hi>
+                     </p>
+                     <p>Now to ſay that ſin is predicated of man, in either <hi>primo,</hi> or <hi>ſecundo modo dicen<g ref="char:EOLhyphen"/>di per ſe,</hi> is nonſenſe: Therefore to ſay that ſin is eſſential to man, either <hi>à priori,</hi> or <hi>à poſteriori,</hi> is nonſenſe.</p>
+                     <p>The <hi>major</hi> I thought undenyable, and as for the <hi>minor,</hi> here indeed I ſtopped too in the proof thereof, as thinking all further proof of it needleſs; becauſe I took it, and ſtill do take it to be, <hi>propoſitio per ſe nota,</hi> which needs no proof, but a bare expli<g ref="char:EOLhyphen"/>cation
+<pb n="19" facs="tcp:51124:12"/>of its terms; <hi>propoſitio per ſe nota dicitur; quae non eſt nota per aliud,</hi> as <hi>Ly<g ref="char:EOLhyphen"/>chetus; quae ſuis tantum terminis cognoſcibilis,</hi> as <hi>Collegium Conimbricenſe</hi> gather out of <hi>Ariſtotle; quae tales terminos habet, ut ii rectè intelle<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>i poſſint cauſare evidentem notitiam totius propoſitionis fine addito; omnis propoſitio hactenns eſt per ſe nota, ad quam evidentèr cognoſcendam intellectus non poſtulat aliquod medium, ſed ſolum term<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>rum penetratione contentus eſt,</hi> ſo <hi>Scheibl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r.</hi>
+                     </p>
+                     <p>Now, for the terms of the <hi>minor Propoſition:</hi> I preſumed, that all explication of them was needleſs unto a Scholar of ſo great a repute as Dr. <hi>Taylor:</hi> And therefore, without more adoe, I inferred, that to ſay that ſin is either of theſe ways eſſential, either <hi>à priori,</hi> or <hi>à poſteriori,</hi> is ſuch pitiful and prodigious nonſenſe, as that I could not think it worthy of any ſerious refutation. And now Sir, I ſhall entreat you to review my Argument, being thus truly Analyzed, and I ſhall appeal unto your con<g ref="char:EOLhyphen"/>ſcience, when you are next upon your knees before God, whether you have not deeply wronged me, to repreſent my Argument thus defectively (that I ſay not falſly) on purpoſe, I am afraid, to render it and me ridiculous. Suppoſe any man ſhould be ſo abſurd, as to ſay, That a Stone is animal; and I to refute him ſhould thus argue, <hi>Omne animal eſt aut homo,</hi> who is endued with reaſon, as well as ſenſe; or <hi>Brutum,</hi> which is endued with ſenſe, but not with reaſon; but to ſay that a ſtone is either <hi>homo,</hi> or <hi>brutum,</hi> is ſuch pitiful and prodigious nonſenſe, as that I cannot think it worthy of any ſerious refutation. Now he that ſhall ſay this is no Argu<g ref="char:EOLhyphen"/>ment, but onely a bold affirmative, will goe a degree beyond boldneſs; for 'tis plain, that here are couched and implyed two mediums. Firſt, a diſtribution of <hi>animal in hominem &amp; brutum:</hi> Next, a deſcription of each member of the diſtri<g ref="char:EOLhyphen"/>bution, and my Argument is exactly paralell'd unto this. But Sir, though I thought, that, before you, I might have ſpared my labor to prove that 'tis nonſenſe, to ſay that ſin is eſſential unto man, either <hi>à priori,</hi> or <hi>à poſteriori;</hi> that its predicated of man, either in <hi>primo,</hi> or <hi>ſecundo modo dicendi per ſe;</hi> yet, becauſe you ſeem to blame mine omiſſion of ſuch proof, I ſhall now give you herein, I hope, ſufficient ſatiſ<g ref="char:EOLhyphen"/>faction.</p>
+                     <p>
+                        <hi>Firſt,</hi> To ſay that that which is <hi>privative</hi> is <hi>poſitive,</hi> is nonſenſe: But to ſay that fin is eſſential unto man, either <hi>à priori,</hi> or <hi>à poſteriori,</hi> is to ſay, that that which is <hi>privative is poſitive</hi> (for the <hi>eſſentials</hi> of man are <hi>poſitive,</hi> and the <hi>formality</hi> of ſin is a <hi>privation.</hi>)</p>
+                     <p>Therefore to ſay that ſin is eſſential unto man, either <hi>à priori,</hi> or <hi>à poſteriori,</hi> is nonſenſe.</p>
+                     <p>
+                        <hi>Secondly,</hi> To ſay that that which is predicated of man <hi>per accidens,</hi> is predicated of man in <hi>primo,</hi> or <hi>ſecundo modo dicendi per ſe,</hi> is nonſenſe (becauſe <hi>praedicatio per ſe &amp; per accidens,</hi> are oppoſite ways of predication.)</p>
+                     <p>But to ſay that ſin is predicated of man in <hi>primo,</hi> or <hi>ſecundo modo dicendi per ſe,</hi> is to ſay, That that which is predicated of man <hi>per accidens,</hi> is predicated of man <hi>per ſe</hi> (for that ſin is predicated of man, <hi>per accidens,</hi> will be queſtioned by none, who know what <hi>primus modus dicendi per accidens</hi> is.)</p>
+                     <p>Therefore to ſay that ſin is predicated of man <hi>in primo,</hi> or <hi>ſecundo modo dicendi per ſe,</hi> is nonſenſe.</p>
+                     <p>
+                        <hi>Thirdly,</hi> To ſay that that which is predicated <hi>contingently</hi> of man, is predicated <hi>neceſſarily</hi> of him, is nonſenſe.</p>
+                     <p>But to ſay that ſin is predicated of man <hi>in primo,</hi> or <hi>ſecundo modo dicendi per ſe,</hi> is to ſay, That that which is predicated of man <hi>contingently,</hi> is predicated of him <hi>neceſſarily,</hi> (for ſin is predicated of man <hi>contingently,</hi> becauſe man and ſin cohere
+<pb n="28" facs="tcp:51124:13"/>
+                        <hi>contingently;</hi> man might not have been a ſinner, and when he ſhall not be a ſinner, he will ſtill be a man; and then <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>per ſe eſt gradus neceſſitatis.</hi>
+                     </p>
+                     <p>Therefore to ſay that ſinne is predicated of man in <hi>primo,</hi> or <hi>ſecundo modo dicen<g ref="char:EOLhyphen"/>di per ſe,</hi> is nonſenſe.</p>
+                     <p>If theſe arguments ſatisfy you not, you may command more of me when you pleaſe, as alſo any further enlargement of theſe.</p>
+                     <p>Yea but <hi>you ſay, that ſinne is eſſentiall is falſe</hi> to ſay, but to <hi>ſay ſo is not</hi> non<g ref="char:EOLhyphen"/>ſenſe.</p>
+                     <p>To this <hi>I anſwer,</hi> that however it may be <hi>ſenſe in Grammar,</hi> yet 'tis nonſenſe in <hi>Logick;</hi> becauſe 'tis a contradiction; for in Logick every contradiction not only <hi>expreſſe,</hi> but that alſo which is <hi>virtuall</hi> and <hi>implyed</hi> is nonſenſe, a bull, as we uſual<g ref="char:EOLhyphen"/>ly ſpeake: thus 'tis nonſenſe to ſay that <hi>lignum eſt ſerreum;</hi> that a ſpirit is corpo<g ref="char:EOLhyphen"/>reall; that a body is bodileſſe, without quantity or extenſion; that an accident ſubſiſts; or that a ſubſtance properly inhereth.</p>
+                     <p>Now my three arguments above irrefragably prove that, to ſay that ſinne is eſ<g ref="char:EOLhyphen"/>ſentiall to man is a contradiction; for 'tis in effect as much as to ſay, that that which is <hi>privative</hi> is <hi>poſitive;</hi> that that which is predicated of man <hi>per accidens,</hi> is predicated of him <hi>per ſe;</hi> that that which is predicated of man <hi>contingently,</hi> is predicated of man <hi>neceſſarily;</hi> and theſe are groſſe and palpable contradictions; and therefore not only falſe, but moſt pitifull and prodigious nonſenſe.</p>
+                     <p>You accuſe me of uncharitableneſſe, and unreaſonableneſſe, in ſuppoſing that you ſay that ſinne is eſſentiall unto man; but from this accuſation I have ſuffici<g ref="char:EOLhyphen"/>ently vindicated my ſelfe by beating you from all your miſerable ſhifts; And unto what I have ſaid herein, I ſhall referre both your ſelfe and the Reader.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr Taylor.</head>
+                  <p>
+                     <hi>In the next place you charge me this with blaſphemy: if I had ſaid or meant what you pretended, you had reaſon; but then I pray conſider how your charge will returne real<g ref="char:EOLhyphen"/>ly upon your ſelfe; for if it be blaſphemy to affirme God to be the Author of ſinne, that what I derived from Adam is no ſinne; for that Adam's ſinne ſhould deſcend upon me, I demand who was the Author of that? If you pleaſe you may take time to conſider it; but in the interim if you be pleaſed to reade a little diſcourſe of mine; cal<g ref="char:EOLhyphen"/>led</hi> Deus juſtificatus, <hi>you ſhall find my queſtion not to be anſwered by you; if you have any regard to the authority or to the reaſon of Mr</hi> Calvin, <hi>Dr</hi> Twiſſe, <hi>and ſome other of the Bigots of your party.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p n="1">1. Here you tempt me to a digreſſion; and you may with as good reaſon call upon me to anſwer all the reproaches that <hi>Bellarmine</hi> in this particular, throw<g ref="char:EOLhyphen"/>eth upon the Proteſtant Churches, and ſome of the moſt eminent members thereof, as propound this queſtion unto me.</p>
+                     <p n="2">2. However yet I briefly anſwer to it, that <hi>Adam</hi> was the author of the de<g ref="char:EOLhyphen"/>ſcent of his ſinne upon me, not God; for to be the Author of ſinne is to be a defi<g ref="char:EOLhyphen"/>cient, culpable cauſe thereof; and it is impoſſible that God ſhould be defective in a culpable manner; and that our doctrine of originall finne maketh him to be ſuch, you may boldly affirme, but can never prove.</p>
+                     <pb n="29" facs="tcp:51124:13"/>
+                     <p n="3">3. <hi>Biſhop Davenant</hi> in the doctrine of originall ſinne is one of our party; and he ſpeaks that which will abundantly ſatisfy your demands, in his animadverſions upon <hi>Hord pag.</hi> 323.224. <hi>It was not</hi> (ſayes he) <hi>God's abſolute decree of Prete<g ref="char:EOLhyphen"/>rition, but Adam's voluntary act of rebellion, which brought ſinne, and the guilt of ſinne upon himſelfe, and all his poſterity, God having juſtly decreed that Adam's chil<g ref="char:EOLhyphen"/>dren ſhould participate with him in his ſtate of righteouſneſſe, did as juſtly decree that they ſhould alſo participate in the ſtate of ſinne.</hi>
+                     </p>
+                     <p>
+                        <hi>If this Author deny the propagation of ſinne from Adam, he muſt acknowledge him<g ref="char:EOLhyphen"/>ſelfe a Pelagian, &amp;c. His whole diſcourſe concerning originall ſinne and the propa<g ref="char:EOLhyphen"/>gating thereof unto all mankind is erroneous, in that he falſely preſumeth, that the di<g ref="char:EOLhyphen"/>vine decree muſt needs be effective or cauſative of all the events decreed; whereas if the events be actions ſinfull, God's decrees are permiſſive, and ordinative, not decrees of cauſing, much, eſſe neceſſitating ſuch evill actions, as bath been often told him.</hi>
+                     </p>
+                     <p n="4">4. I have ſeene your little diſcourſe called <hi>Deus juſtificatus;</hi> and muſt ſay of it as <hi>Florus</hi> did of the Ligurians: <hi>lib.</hi> 2 <hi>cap.</hi> 3. <hi>Major aliquanto labor erat invenire quam vincere;</hi> The Rhetorick of it is ſo rank, as that it will be a very hard matter to find out the Logick and reaſon that is in it.</p>
+                     <p>If you pleaſe to put your arguments into forme, you then may command me to conſider them; but otherwiſe, I ſhall be very loath to adventure upon any thing of yours; for I find by this preſent debate about two or three lines, that I ſhall not without great difficulty ſearch out what is your meaning.</p>
+                     <p n="5">5. I wonder why you ſay, that by this diſcourſe I ſhall find your queſtion not to be anſwered by me; why (pray Sr) could I anſwer it before you propounded it? but your meaning is, I ſuppoſe, that I ſhall find, that your queſtion cannot be anſwr'd by me: but the event will try that.</p>
+                     <p n="6">6. That which you meane in Mr <hi>Calvin,</hi> and Dr <hi>Twiſſe,</hi> are I thinke thoſe places which you quote, <hi>pag.</hi> 32: of that your diſcourſe; and then unto the place in <hi>Calvin</hi> you have an anſwer in Dr <hi>Twiſſe</hi> (<hi>vind: gra: lib.</hi> 2. <hi>dig:</hi> 2. <hi>cap.</hi> 3. <hi>pag.</hi> 42.) where he cleares it from the crimination of <hi>Bellarmine:</hi> And then for the place in Dr <hi>Twiſſe</hi> you may gather an anſwer from that he ſaith unto Mr <hi>Hord,</hi> (<hi>pag.</hi> 149.150.) who makes the like objections againſt him from another place.</p>
+                     <p n="7">7. You are the unmeeteſt man in the world to upbraid me with the Bigots of my party; for the rigid Zelots of your party, in your doctrine of originall ſin, are ſuch whom you may be aſhamed to name. Indeed in this point there are ve<g ref="char:EOLhyphen"/>ry few of your party, ſave the Pelagians of old, and now the worthy Divines of the Racovian denne, and their followers; unto whom the beſt and the moſt learned of Proteſtants will hardly vouchſafe the name of Chriſtians. The Arch-Biſhop of Armagh termed them, in a ſermon of his (that I heard) a company of baptized Turkes; and indeed Turkes, and Infidels can hardly be greater enemies unto the divine perſon, and nature of Chriſt, unto his offices, and unto his great and glorious worke of redemption, and ſatisfaction, than theſe wretched miſ<g ref="char:EOLhyphen"/>creants are.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr Taylor.</head>
+                  <p>
+                     <hi>Your ſecond charge of blaſpemy is, that my reaſon does by implication involve Chriſt in the guilt of ſinne; becauſe whatſoever is eſſentiall he had; but then, If you remem<g ref="char:EOLhyphen"/>ber that I ſay not, that ſinne is eſſentiall; and that I bring the reverſe of this very
+<pb n="22" facs="tcp:51124:14"/>argument againſt your party and opinion in ſome of my late diſcourſes, you have reaſon to ſhake the fire out of your own boſome, not to tell me, that I burne; for if inclination to ſinne be a ſinne naturally and derived from our Parents; I demaund whether or no had not Chriſt all naturall deſires? if he had not, he was not a perfect man; If he had then all naturall deſires are not naturall ſinnes; for if you ſay they be, you are the bla<g ref="char:EOLhyphen"/>ſphemer by the conſequence of your affirmative, not I; but God forbid that either of us ſhould.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>
+                        <hi>Firſt,</hi> here is no retortion of my argument; for none of my party or opinion hold, that inclination unto evill is eſſentiall unto man: <hi>Flaccius Illyricus</hi> main<g ref="char:EOLhyphen"/>taines, that originall ſinne was the eſſence, or ſubſtance of the ſoule; but I ne<g ref="char:EOLhyphen"/>ver heard that his followers were conſiderable; he hath (I am ſure) both Pa<g ref="char:EOLhyphen"/>piſts and Proteſtants; Calviniſts, and Lutherans for his opponents: but, perhaps you confound naturall with eſſentiall, and make them all one; if you doe, your reaſon will be nothing, but <hi>petitio principii.</hi>
+                     </p>
+                     <p n="2">2. I believe, you here play with the equivocation of the word naturall, a thing (though it may be tollerated in a Sophiſter,) altogether unworthy of a Theo<g ref="char:EOLhyphen"/>legue.</p>
+                     <p>
+                        <hi>Inclination to ſinne</hi> may be ſaid to be naturall, either <hi>conſequutivè,</hi> or <hi>conne<g ref="char:EOLhyphen"/>xivè.</hi>
+                     </p>
+                     <p>That inclination to evill is naturall <hi>conſequ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tivè</hi> (that it flowes, and reſults Phyſically, and neceſſarily from our nature,) I flatly deny: and if you can direct me unto any place in your bookes, where you prove it to be naturall in this ſenſe, I ſhall take it into conſideration. Indeed to ſay, that it is in this ſenſe naturall, is to throw a reproach upon God the Author of nature.</p>
+                     <p>But it is naturall <hi>connexivè;</hi> together with our nature derived unto us from our firſt Parents; and yet not in Chriſt, who had not his nature from Adam in an ordinary way of Generation, but was miraculouſly conceived by the holy Ghoſt, and ſanctified in the wombe of the Virgin Mary.</p>
+                     <p>This inclination unto evill is a ſinful blemiſh of our nature; becauſe it is a cauſe of ſinne, <hi>&amp; qualis cauſa talis eſt effectus.</hi> A good tree, ſaith our Saviour, cannot bring forth evill fruit, <hi>Matth.</hi> 7.18. This inclination to evill bringeth forth much evill fruit, and therefore it cannot be good; and conſequently it is bad, and ſinfull; and therefore could not be in Chriſt; (who even as man) was the moſt holy one of God. Indeed if Chriſt had wanted any propriety of man's nature, he had not then been a perfect man, but, that inclination to evill is a propriety of our nature, <hi>ſc: proprium</hi> 4 <hi>to modo</hi> you are never able to make good.</p>
+                     <p>But, Sir, in good earneſt, doe you thinke that Chriſt was inclined unto evill? if you doe not, your diſcourſe of Chriſt is impertinent; if you doe, I ſhall con<g ref="char:EOLhyphen"/>clude your opinion to be blaſphemous; and unto it ſhall oppoſe this following ar<g ref="char:EOLhyphen"/>gument.</p>
+                     <p>He in whom dwelled an all-fullneſſe <hi>of the Godhead</hi> bodily; he in whom dwelled an <hi>all-fullneſſe of habituall grace;</hi> he who enjoyed the <hi>beatificall viſion,</hi> was not, could not be inclined unto evill.</p>
+                     <p>But, in Chriſt dwelled an <hi>all-fullneſſe of the Godhead</hi> bodily; in him alſo dwel<g ref="char:EOLhyphen"/>led <hi>an all-ſullneſſe of habituall,</hi> and ſanctifying grace; he enjoyed the <hi>beatificall viſion</hi>
+                     </p>
+                     <p>Therefore he was not, could not be inclined unto evill.</p>
+                     <pb n="23" facs="tcp:51124:14"/>
+                     <p>The <hi>Minor</hi> will not be denied by any Orthodox Divine, and we may ſay the ſame of the <hi>Major,</hi> for, he that ſhall thinke that the grace <hi>of perſonall</hi> union, the <hi>all<g ref="char:EOLhyphen"/>fullneſſe of habituall grace,</hi> and <hi>the beatificall viſion</hi> are not ſufficient to exclude from Chriſt all inclination untoevil wil render both his learning, &amp; religion too ſuſpected.</p>
+                     <p>But, to put the matter out of doubt, take this following argument for confirma<g ref="char:EOLhyphen"/>tion of <hi>the Major:</hi> there could not be the leaſt inclination unto evill in that perſon, in whom there was an utter averſeneſſe from evil in <hi>ſummo gradu;</hi> (for of con<g ref="char:EOLhyphen"/>traries, that which is in a remiſſe degree is not conſiſtent with the other in the higheſt and moſt intenſe degree) but, in that perſon, in whom there was an <hi>all-fullneſſe of the Godhead,</hi> an <hi>all-fullneſſe of habituall</hi> grace, and the <hi>beatificall vi<g ref="char:EOLhyphen"/>ſion,</hi> there was an utter averſneſſe from evill, and that in <hi>ſummo gradu;</hi> and there<g ref="char:EOLhyphen"/>fore impoſſible that there ſhould be in him an inclination to evill in the leaſt de<g ref="char:EOLhyphen"/>gree.</p>
+                     <p>The Papiſts extenuate the malignancy of concupiſcence as much as may be, af<g ref="char:EOLhyphen"/>firming that in the regenerate it is no ſinne, and that it had been in <hi>Adam</hi> if he had been created in his pure naturalls; yet, they thinke not ſo well of it, as to aſ<g ref="char:EOLhyphen"/>cribe it unto Chriſt.</p>
+                     <p>Indeed <hi>Durand</hi> is accuſed for ſpeaking ſomewhat ſuſpiciouſly this way; but he is contradicted by the generality of the Schoolemen;
+<note n="*" place="margin">
+                           <hi>Suarez in</hi> 3 <hi>am par<g ref="char:EOLhyphen"/>tem Thom: diſp.</hi> 34. <hi>Sect.</hi> 2. <hi>Greg. de. Valentia. Tom.</hi> 4. <hi>diſt.</hi> 1 <hi>quaeſt. punct.</hi> 3.</note> who hold that <hi>ſomes peccati,</hi> concupiſcence was neither <hi>actu primo,</hi> nor <hi>ſecundo</hi> in Chriſt.</p>
+                     <list>
+                        <item>1. Not in <hi>actu primo,</hi> and for this they alledge three reaſons.
+<list>
+                              <item>1. <hi>The abſolute perfection</hi> of his virtues, and all-fullneſſe of grace.</item>
+                              <item>2. <hi>The perpetuall vigilancy,</hi> and advertency of his reaſon.</item>
+                              <item>3 <hi>The government</hi> of his humane nature, and actions, by his divine and infi<g ref="char:EOLhyphen"/>nite perſon.</item>
+                           </list>
+                        </item>
+                        <item>2. Not in <hi>actu ſecundo,</hi> becauſe in him, the very firſt motions unto ſinne would have been voluntary, and conſequently ſinfull.</item>
+                     </list>
+                     <p>Unto this purpoſe <hi>Becanus,</hi> (<hi>Sum: Theolog: Scholaſt: Tom:</hi> 5. <hi>cap.</hi> 12. <hi>quaeſt:</hi> 5. <hi>pag:</hi> 200.) obſerveth; that the firſt motions of concupiſcence may be ſaid to be <hi>volun<g ref="char:EOLhyphen"/>tary two manner of wayes.</hi>
+                        <list>
+                           <item>1. <hi>Antecedently;</hi> when one willingly admits them when he may avoid them.</item>
+                           <item>2. <hi>Conſequently;</hi> when one yeelds conſent unto them after they are crept in, in the former way or manner they had been voluntary in Chriſt; becauſe Chriſt could have avoided them, by reaſon of the government of the perſon of the word; if he had not therefore avoided them, but willingly admitted them, they had in him been blameworthy.</item>
+                        </list>
+                     </p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr Taylor.</head>
+                  <p>
+                     <hi>Your third reaſon alſo is as pretty; for, firſt; I demand whether a poſſibility to ſinne be not of the nature of man; (for that is all I meane by eſſentiall) if it be not; how came Adam to ſinne his firſt ſinne? if it be, I aske whether ſhall the Saints in the re<g ref="char:EOLhyphen"/>ſurrection be raiſed up with it or no?</hi> If yea; <hi>then you blaſpheme God's full glorifica<g ref="char:EOLhyphen"/>tion of the Saints in the reſurrection; for impeccability is certainly a part of their full glorification.</hi> If nay; <hi>then it is no blaſphemy to ſay that in the reſurrection the Saints ſhall be raiſed up without ſomething that is eſſentiall to them, or to their nature.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <pb n="32" facs="tcp:51124:15" rendition="simple:additions"/>
+                     <head>Jeanes.</head>
+                     <p>That poſſibility to ſinne is eſſentiall unto every rationall creature I grant; and hereupon inferte, that 'tis not ſeparated from the Saints in their full glorification; neither ſhall I feare your charge of blaſphemy herein, having the generality of Schoolemen, (both Thomiſts, and Scotiſts) and reaſon too on my ſide. Indeed, the Saints of Heaven do conſtantly, and interruptedly ſhun, and decline ſinne; yet, 'tis an ev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll poſſible unto their nature, conſidered in it ſelfe; however they are ſecured therefrom by their glorified ſtate and condition: for though ſinne, and a fullneſſe of glory be inconſiſtent; yet 'tis no contradiction, or repugnancy, that their natures abſtractly conſidered, ſecluding the conſideration of their glory, ſhould be ſinfull. Yea, but you ſay, impeccability is certainely a part of the full glo<g ref="char:EOLhyphen"/>rification of the Saints; and what is impeccability but an impoſſibility of ſinning; if God then make the Saints impeccable, he takes away from them all poſſibility of ſinning.</p>
+                     <p>For anſwer.</p>
+                     <p>1. There is <hi>a twofold impeccability.</hi>
+                        <list>
+                           <item>1. <hi>By nature.</hi>
+                           </item>
+                           <item>2. <hi>By the grace and gift of God.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>Impeccability by nature takes away all poſſibility of ſinning; but it is received ge<g ref="char:EOLhyphen"/>nerally as a rule among the School-men, that a creature cannot be made <hi>impecca<g ref="char:EOLhyphen"/>bi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>is per naturam,</hi> (that is) ſuch a one, as cannot by nature ſinne. And, if you pleaſe, you may view the proofes thereof in <hi>Capreolus lib:</hi> 2. <hi>Diſt:</hi> 22. <hi>quaeſt.</hi> 1.</p>
+                     <p>Impeccability by the gift and grace of God doth not eradicate the remote pow<g ref="char:EOLhyphen"/>er of ſinning; but only keeps it from being actuated; and 'tis this impeccability on<g ref="char:EOLhyphen"/>ly, that is part of the Saints glorification.</p>
+                     <p n="2">2. A thing may be ſaid to be impoſſible, <hi>ſenſu diviſo,</hi> or <hi>ſenſu compoſito.</hi>
+                     </p>
+                     <p>In <hi>ſenſu diviſo</hi> 'tis not impoſſible, but poſſible, for the Saints in Heaven to ſin; for that (conſidered in themſelves without the cuſtodient grace of God alwayes un<g ref="char:EOLhyphen"/>derpropping them) they are liable unto ſin, the lamentable fall of the Angels of darkeneſſe is an evident proofe.</p>
+                     <p>But now, <hi>ſenſu compoſito,</hi> 'tis indeed impoſſible for glorified Saints to ſinne; that is; 'tis impoſſible for them to ſinne conſidered under this <hi>reduplication,</hi> as fully glorified; becauſe fullneſſe of glory and ſinne cannot ſtand together. This anſwer is in Scotus (<hi>lib.</hi> 4. <hi>diſt:</hi> 49. <hi>quaeſt:</hi> 6.) whoſe words I ſhall inſert for the ſake of ſome Readers who may not have him in their ſtudies:) <hi>Reſpondeo; patet, quod bea<g ref="char:EOLhyphen"/>tus eſt impeccabilis in ſenſu compoſitionis, hoc eſt, non poteſt ſimul eſſe beatus, &amp; peccare: ſed in ſenſu diviſionis, quod maneas beatus non habeat potentiam &amp; poſſibilitatem ad pec<g ref="char:EOLhyphen"/>candum poteſt intelligi duplicitèr: vel per aliquid ſibi intrinſecum, quod excludit po<g ref="char:EOLhyphen"/>tentiam talem; vel per cauſam extrinſecam, quod excludit potentiam propinquam ab il<g ref="char:EOLhyphen"/>lo, &amp;c: nulla eſt cauſa intrinſeca in voluatate Michaelis nunc beati, per quam exclu<g ref="char:EOLhyphen"/>datur potentia ad peccandum pro alias, in ſenſu diviſionis, non eſt autem cauſa intrinſeca prohib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ns iſtam potentiam omnino reduci ad actum: ſed per cauſam extrin<g ref="char:EOLhyphen"/>ſecam eſt impoſſibilis potentia illa propinqua ad peccandum, videlicet per volutataem Dei praevenientem illam voluntatem, ut ſemper continet actum fruendi, &amp; ita nunquam poſſit pote<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tiam ſuam r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>am non ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>endi, vel peccandi, reducere ad actum: ſiqui<g ref="char:EOLhyphen"/>dem umquam cauſa ſecunda praeveata à cauſà ſuperiori agente ad unum oppoſitum po<g ref="char:EOLhyphen"/>teſt potentia propinqua exire in aliud oppoſitum. Concedo ergo, quod infert, quod Mi<g ref="char:EOLhyphen"/>chael
+<pb n="33" facs="tcp:51124:15"/>beatus, &amp; ſit peccabilis in ſenſu diviſionis loquendo de potentiâ re<g ref="char:EOLhyphen"/>motâ.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>But Sir, what think you of Mortality? is that eſſential, or of the nature of man? I ſuppoſe you will not deny it. But yet I alſo believe you will confeſs, that though we are ſown a corruptible body, yet we ſhall be raiſed an incorruptible, and the mortal ſhall put on immortality.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>For anſwer, I ſhall propound a diſtinction of mortality, that is very obvious and ordinary. A thing may be ſaid to be <hi>mortal,</hi> either <hi>respectu potentiae remotae,</hi> or <hi>re<g ref="char:EOLhyphen"/>spectu potentiae propinquae.</hi>
+                     </p>
+                     <list>
+                        <item>1. <hi>In respect of a remote power</hi> of dying, which hath in it the remote cauſe of diſſolution, an elementary matter.</item>
+                        <item>2. <hi>In regard of</hi> a near power of dying, ariſing from the actual conflict, and cor<g ref="char:EOLhyphen"/>ruptive influence of the Elements, and their contrary qualities.</item>
+                     </list>
+                     <p>The latter Mortality is ſeparable, but then it is not eſſential.</p>
+                     <p>As for the former Mortality, which alone is eſſential, I think very few doubt, but that 'tis alſo inſeparable from the nature of a mans body: for, the immortality and incorruption of the bodies of the Saints in the reſurrection, will not be by taking a<g ref="char:EOLhyphen"/>way out of their bodies the remote cauſes of corruption, the Elements, and their contrary qualities, (for, then their bodies would not be mixt; and ſo not for ſub<g ref="char:EOLhyphen"/>ſtance the ſame that they were) but by an hinderance or prevention of the corrup<g ref="char:EOLhyphen"/>tive influence of the Elements, and their contrary qualities.</p>
+                     <p>That I am not ſingular in this, I ſhall manifeſt, by tranſcribing the Teſtimonies of ſome few School-men, who though they differ one from another in aſſigning the cauſe and reaſon of the impaſſibility and incorruptibility of glorified Bodies; yet they all agree with <hi>Durand</hi> in this, That glorified Bodies are not impaſſible, <hi>per privationem potentiae paſſivae, ſed per aliquod praeſtans impedimentum actualis paſſionis nè fiat.</hi>
+                     </p>
+                     <p>The firſt ſhall be of <hi>Scotus,</hi> (<hi>lib.</hi> 4. <hi>diſt.</hi> 49. <hi>quaeſt.</hi> 13.) <hi>Dico ergo quod cauſa im<g ref="char:EOLhyphen"/>paſſibilitatis eſt voluntas divina non coagens cauſae ſecundae corruptivae, &amp; per hoc, eſt illud impaſſibile, non potentia remota, ſed propinqua, non à cauſâ intrinſecá, ſed extrin<g ref="char:EOLhyphen"/>ſecâ impediente, ſicut dictum eſt de impeccabiliuate ſupra, &amp;c. exemplum hujus de igne in camino, qui non egit ad conſumptionem trium puerorum, non quidem per aliquam im<g ref="char:EOLhyphen"/>paſsibilitatem intrinſecam pueris, nec ex carentrâ potentiae paſsivae, nee ex contrario in<g ref="char:EOLhyphen"/>trinſeco impediente, ſed quia Deus ex voluntate ſuá non cooperabatur ad illam actio<g ref="char:EOLhyphen"/>nem.</hi>
+                     </p>
+                     <p>The ſecond is of <hi>Durand</hi> (<hi>lib.</hi> 4. <hi>diſt.</hi> 44. <hi>quaeſt.</hi> 4.) <hi>Reſtat ergò quod corpora glorioſa non erunt impaſsibilia ſimplicitèr, &amp; abſolutè per privationem principii paſsivi, cùm natura corporum glorioſorum, ſit futura eadem quae prius, ſed erunt impaſsibilia p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r aliquid praeſtans impedimentum actualis paſsionis nè fiat.</hi>
+                     </p>
+                     <p>
+                        <hi>Quid autem ſit illud, utrum ſit aliqua forma inhaerens, an ſolum virtus divina aſ<g ref="char:EOLhyphen"/>ſiſtens, duplex eſt opinio: dicunt enim quidam quod talis impaſſibilitas erit, per aliquam formam inexiſtentem, &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Alius modus eſt, quod impaſsibilitas corporum glorioſorum non erit per aliquam for<g ref="char:EOLhyphen"/>mam
+<pb n="32" facs="tcp:51124:16" rendition="simple:additions"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="33" facs="tcp:51124:16"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="34" facs="tcp:51124:17"/>inhaerentem, ſed ſolum per virtutem divinam<g ref="char:punc">▪</g> aſsiſtentem beatis ad nutum &amp; pro<g ref="char:EOLhyphen"/>hibentem actionem cujuſcunque extriaſeci inſerentis paſsionem.</hi>
+                     </p>
+                     <p>This latter way <hi>Durand</hi> takes himſelf, and endeavoreth to confirm it by three Reaſons.</p>
+                     <p>The third ſhall be of <hi>Suarez,</hi> (<hi>in tertiam part: Thom: diſp:</hi> 48. <hi>p.</hi> 531.) <hi>nam li<g ref="char:EOLhyphen"/>cet in corpore glorioſo maneat eadem materia, idemque temperamentum ex qualitatibus contrartis, inde ſolum fit, corpus illud in nudâ naturâ ſuâ conſideratum, eſſe corruptibile, &amp; in beatitudine retinere quaſi cauſam remotam, ſeu naturalem radicem corruptionis: nihilominus tamen ſecundum proximam dispoſitionem intrinſecam eſſe incorruptibile &amp; impaſſibile: quia affectum eſt aliâ quadam perfectione quae ex ſe poteſt impdire, nè illa naturalis corruptibilit as in actum reducatur.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Once more, Is it natural to be a natural? that will not be denyed: But then remem<g ref="char:EOLhyphen"/>ber, that although to be natural is eſſential, that is, of the eſſence of the body, yet the natural ſhall ariſe without its naturality; it is ſown a natural body, it is raiſed a spi<g ref="char:EOLhyphen"/>ritual.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p n="1">1. That that which is natural, is natural, will not be denyed, as you ſay; but 'tis <hi>propoſitio identica nugax,</hi> a moſt trifling Tautology: and unto what purpoſe you propound a queſtion concerning it, I know not.</p>
+                     <p n="2">2. Of things natural unto man, ſome are <hi>natural powers,</hi> ſome are <hi>naturall acts:</hi> Natural (firſt) powers may be and are eſſential unto the body; and ſo they are in<g ref="char:EOLhyphen"/>ſeparable too; our Bodies, when they ſhall be raiſed, ſhall not want ſo much as one ſuch natural power: But natural acts are accidental, and in the reſurrection there may be no place for the exerciſe of, at leaſt, ſome of them, <hi>viz<g ref="char:punc">▪</g>
+                        </hi> Generation, Nutrition, and the like; as touching ſuch things, we ſhall <hi>be like the angels in Hea<g ref="char:EOLhyphen"/>ven,</hi> as it were ſpiritual.</p>
+                     <p n="3">3. In the Apoſtle, 1 <hi>Cor.</hi> 15.44. it is not <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, a natural body, but <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, an animal or ſouly body, that is, actuated and animated by the ſoul after a natural way and manner, by the intervention of bodily helps, ſuch as eating, drinking, ſleeping, and the like. And in all congruence of oppoſition hereunto, a glorious body is ſaid to be a ſpiritual, in regard of an <hi>immediate ſupportance</hi> by the ſpirit, without any corporeal means, and without any uſe of the generative and nu<g ref="char:EOLhyphen"/>tritive faculties.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>So that you ſee, if I had ſaid this which you charge upon me, which is contrary to my thoughts, and ſo againſt my purpoſe, yet your Arguments could not have overthrown it.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>Whether you do not here boaſt, and triumph without a victory, I am very well contented to refer it unto the learned Reader.</p>
+                     <p>Since my penning of my exceptions, ſent unto Mr. <hi>C.</hi> I have read the Metaphy<g ref="char:EOLhyphen"/>ſicks of Dr. <hi>Robert Baro,</hi> that learned Scot; and in them I finde the like of theſe
+<pb n="35" facs="tcp:51124:17"/>three laſt Arguments of mine, urged againſt the error of <hi>Flaccius Illyricus;</hi> that O<g ref="char:EOLhyphen"/>riginal Sin is of the ſubſtance of man, and eſſential to him after the fall, a pro<g ref="char:EOLhyphen"/>poſition ſubalternate unto that which I charge you with; his words are as followeth, <hi>Prima opinio damnanda &amp; à noſtris Theologis &amp; a Pontificiis de naturâ peccati origi<g ref="char:EOLhyphen"/>nalis eſt abſurdiſſima haereſis Illyrici, ſtatuentis peccatum originale eſſe de ſubſtantia hominis, ſeu eſſe quid homini eſſentiale poſt lapſum, contra quam ſententiam Bellarminus disputans; varias affert rationes: praecipuae hae ſunt, Primò ſi peccatum eſſet pars ſub<g ref="char:EOLhyphen"/>ſtantiae humanae, aut Deus erit author peccati, quippe qui ſubſtantias omnes creavit, aut ſi quis neget illam ſubſtantiam eſſe à Deo, cogetur ſateri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cam eſſe à Diabolo, qui eſt author peccati; neceſſarium enim eſt, ut habeat aliquam cauſam; at utrumque conſequens eſt abſurdum, ergò &amp; antecedens: Secundò, aut Chriſtus non aſſumpſit naturam huma<g ref="char:EOLhyphen"/>nam integram, aut peccato non caruit, quorum utrumque eſt abſurdum: Tertio, Ad diem judicii natura hominis reſurget, &amp; aeternam vitam poſsidebit, ſaltem quoad ele<g ref="char:EOLhyphen"/>ctos: Peccatum verò tum nullum erit in glorificatis, ergò peccatum non eſt quid eſſea<g ref="char:EOLhyphen"/>tiale, ſed quid ſeparabile eſt ab ipſâ naturd, pag.</hi> 248, 249. Theſe reaſons differ ſo little from mine, as that you may think perhaps that I have borrowed mine from either <hi>Bellarmine</hi> or <hi>Baro,</hi> which yet I aſſure you I did not: The reaſon why now I recite theſe Reaſons, is to ſhew, that my arguments are not ſuch weak and pi<g ref="char:EOLhyphen"/>tifull things, but that very Learned Men have made uſe of the like, to diſprove a propoſition ſubordinate unto that which I goe about to refute.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>It is good advice</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>if you had been pleaſed to have learned my meaning before you had publiſhed your diſlike, I ſhould have eſteemed my ſelf obliged to you in a great acknowledgement.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>Your advice out of <hi>Ariſtophanes,</hi> I like very well; I am not conſcious unto my ſelf that I have towards you tranſgreſſed againſt it: for before I uttered a ſyllable of diſlike, I uſed my beſt endeavor to finde out what was your meaning, and to that purpoſe, made uſe of that little Logick and Reaſon which I had; and as for that meaning which I aſſix unto your words, let the Reader determine, whether I have violated any rule of Logick or Reaſon, in imputing it unto you: What I took to be your ſenſe, together with my Objections againſt it, I ſent unto Mr. <hi>C.</hi> to be tranſmitted ſpeedily unto you, expoſing all unto the utmoſt ſeverity of your ex<g ref="char:EOLhyphen"/>amination; and wherein I have here treſpaſſed againſt charity or juſtice, I would fain know.</p>
+                     <p>Beſides, my diſtike I expreſſed onely in a private place, before very few, in private diſcourſe, and I have not hitherto publiſhed it, from either Preſs or Pulpit.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Now you have ſaid very much evil of me, though</hi> I <hi>deſerve it not.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>This I deny, and flatly challenge you to prove what you aver.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <pb n="36" facs="tcp:51124:18"/>
+                  <head>Dr. Taylor.</head>
+                  <p>
+                     <hi>For ſuppoſe I had not prosperouſly enough expreſſed my meaning, yet you, who are a man of wit and parts, could eaſily have diſcerned my purpoſe and my deſign: You could not but know, and conſider too, that my great deſign was to ſay, That ſin could not be natural, that it is ſo far from being eſſential, that it is not ſo much as ſubjected in our common natures, but in our perſons onely.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p n="1">1. Whether what you ſay of my wit and parts, be not a ſeem, I ſhall not trou<g ref="char:EOLhyphen"/>ble myſelf to inquire, but leave it unto your conſcience: However, I ſuppoſe, you think your ſelf far ſuperior unto my poor ſelf in wit and parts, and I alſo readily acknowledge as much: Now I wonder why you ſhould think that I ſhould ſo eaſily finde out what is your meaning, ſeeing you (whoſe abilities ſo far tranſcend mine) be ſo unproſperous, not onely in the expreſſion, but in the after interpretation of your meaning, as that you diſſent in a latter Letter, from your ſelf in a former Letter: How can you reaſonably expect that I, who am not (as one of your Profelites late<g ref="char:EOLhyphen"/>ly ſaid) worthy to be named the ſame day with you, (I ſhall not deny the truth of the compariſon, nor envy you the honor thereof) ſhould (as the Pro verb is) ſee further into a Mill-ſtone then you, who are ſo Eagle and quick ſighted.</p>
+                     <p>
+                        <hi>Secondly,</hi> Whereas you ſay, <hi>That ſin is not ſo much as ſubjected in our common na<g ref="char:EOLhyphen"/>ture, but in our perſons onely;</hi> I doubt that I underſtand you not, for to me it ſeems very evident, that ſin, (ſo far <hi>as a privation can be inherent</hi>) is truly inherent in our natures; for it hath all the Requiſites of inherence, that <hi>Ariſtotle</hi> layeth down (<hi>Ca<g ref="char:EOLhyphen"/>tegor: cap.</hi> 2.)</p>
+                     <p n="1">1. <hi>It is</hi> in our nature.</p>
+                     <p n="2">2. <hi>Not as a part</hi> of our nature.</p>
+                     <p n="3">3. <hi>Neither can it exiſt ſever'd</hi> and apart from our natures: Sin is ſeated in all in<g ref="char:EOLhyphen"/>dividuals of our nature, whileſt living here upon earth, Chriſt his humanity alone excepted; and therefore why may not we ſay, that 'tis ſubjected in our common nature? Seeing thoſe accidents are ſeated <hi>ſecundarily,</hi> and <hi>mediately</hi> in ſecond ſub<g ref="char:EOLhyphen"/>ſtances, which are <hi>primarily and immediately</hi> placed in their reſpective firſt <hi>ſubſtances; ſubſtantiae ſecundae ſubſtant accidentibus gratiâ primarum.</hi>
+                     </p>
+                     <p>Yea, but you will (perhaps) ſay, it is ſubjected in our perſons onely, therefore not in our nature: But this is a very ſorry Objection': For who knows not the di<g ref="char:EOLhyphen"/>ſtinction of <hi>ſubjectum, in ſubjectum quo, &amp; quod;</hi> our perſons onely are <hi>ſubjectum quod</hi> of fin, our natures notwithſtanding may be <hi>ſubjectum quo</hi> of it; and we may ſay the ſame of other accidents. I finde you (<hi>pag.</hi> 494.) quoting that uſual Axi<g ref="char:EOLhyphen"/>ome, <hi>actiones ſunt ſuppoſitorum;</hi> but, if you had conſidered the limitations that are uſually given thereof, you would have ſpared the urging of it: <hi>actio eſt ſuppoſiti</hi> (ſaith <hi>Scotus</hi>) <hi>ultimatè denominati ab actione, ſed non ut ſolius denominati ab ipſâ:</hi> But you may have ſome deep meaning, which I fathome not; fair leave may you take to explain your ſelf.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <pb n="37" facs="tcp:51124:18"/>
+                  <head>Dr. Taylor.</head>
+                  <p>
+                     <hi>But beſides this, Sir, I am a little to complain of you, that when you had two words at your choice to explicate each other (intrinſecal, and eſſential) you would take the hard<g ref="char:EOLhyphen"/>eſt and the worſt ſenſe, not the eaſieſt and moſt ready.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>I have here given you, not onely no cauſe, but not ſo much as any ſhadow or colour for complaint.</p>
+                     <p n="1">1. I gave a reaſon why I inſiſted on the word eſſential onely, and paſſed by the term intrinſecal; becauſe you uſe intrinſecal as equivalent unto eſſential, as is ap<g ref="char:EOLhyphen"/>parent, by your oppoſing it unto accidental: And have you ſaid, can you ſay any thing to the contrary.</p>
+                     <p n="2">2. I would fain know why you ſhould ſay that <hi>eſſential</hi> is a harder word then <hi>in<g ref="char:EOLhyphen"/>trinſecal;</hi> there is, I am ſure, that equivocation in the word <hi>intrinſecal,</hi> which is not in the word <hi>eſſential;</hi> for, that which is accidental, may be intrinſecal; there being intrinſecal, as well as extrinſecal accidents; <hi>interaum &amp; externum</hi> (ſay Phi<g ref="char:EOLhyphen"/>lofophers) <hi>ſumuntur, vel ratione eſſentiae, vel ratione loci, &amp; ſubjecti.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. Taylor.</head>
+                  <p>
+                     <hi>For you cannot but know, that eſſential is not always to be taken in the ſtricteſt ſenſe of Philoſophy, for that which is conſtitutive of a nature; but largely, and for all ſorts of properties, and the univerſal accidents of nature.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>The diſtinction of eſſential, into that which is ſuch <hi>conſtitutivè,</hi> as conſtituting the eſſence, or that which is ſuch, <hi>conſequentivè,</hi> as neceſſarily reſulting from the eſſence, I very well know: and I grant the proprieties which are ſuch, <hi>quarto mo<g ref="char:EOLhyphen"/>do,</hi> which agree <hi>omni, ſoli, ſemper,</hi> are in this latter ſenſe ſaid to be eſſential; but that eſſential is ever taken, as you ſay, for all ſorts of proprieties, thoſe which are ſuch, <hi>primo, ſecundo,</hi> or <hi>tertio modo,</hi> is notoriouſly falſe, for then eſſential would be taken for that which is moſt accidental; but let us examine your inſtances.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>As it is eſſential to a man to laugh, to be capable of learning, to be mortal, to have a body of contrary qualities, and conſequently by nature corruptible.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>If you ſhould affirm in the publick Schools of either of the Univerſities, that to laugh is eſſential to man, you would not onely be laughed, but hiſſed, and houted at: the groſs and palpable abſurdity of this your Aſſertion, I thus prove.</p>
+                     <p>Nothing that is accidental to man, can be ſaid to be eſſential to him.</p>
+                     <p>But to laugh is accidental to man.</p>
+                     <pb n="38" facs="tcp:51124:19"/>
+                     <p>Therefore it is not eſſentiall.</p>
+                     <p>The <hi>Major</hi> is apparent from the oppoſition, that you your ſelfe make betwixt eſ<g ref="char:EOLhyphen"/>ſentiall, and accidentall.</p>
+                     <p>The <hi>Minor</hi> is thus confirmed.</p>
+                     <p>That which is predicated of man <hi>contingently,</hi> is accidentall to man.</p>
+                     <p>But to laugh is predicated of man contingently.</p>
+                     <p>Therefore it is accidental to man.</p>
+                     <p>The <hi>Major</hi> is plain, becauſe contingency of predication is one of the chief things which diſtinguiſheth <hi>accidens praedicabile,</hi> from all other predicables, and it is a reciprocal character thereof.</p>
+                     <p>And for the <hi>Minor,</hi> that is no leſſe evident: indeed <hi>riſibile</hi> is eſſential unto man, and predicated of him in <hi>ſecundo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>modo dicendi per ſe;</hi> but <hi>ridere</hi> to laugh is acci<g ref="char:EOLhyphen"/>dental, becauſe it is predicated of man <hi>contingently;</hi> for a man and actuall <hi>laughter</hi> cohere <hi>contingently:</hi> the loweſt degree of neceſſity in affirmative and eſſential pre<g ref="char:EOLhyphen"/>dications, is <hi>de omni;</hi> and <hi>de omni poſterioriſticum,</hi> requireth <hi>univerſitatem temporis</hi> as well as <hi>ſubjecti;</hi> that is, <hi>propoſitio</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>debet eſſe ſemper vera;</hi> now all men do not alwayes laugh, and therefore laughter is predicated of man contin<g ref="char:EOLhyphen"/>gently, and conſequently accidental to him.</p>
+                     <p>You ſee, Sir, I am bold to trouble you, ever and anon, with my trifling Logick, and you can expect no other, as long as you thus treſpaſſe againſt what is moſt tri<g ref="char:EOLhyphen"/>vial and obvious in Logick, the very <hi>A. B. C.</hi> thereof.</p>
+                     <p n="2">2. As for the ſecond inſtance, you bring capacity of learning: that is taken for <hi>potentia prima,</hi> or <hi>ſecunda.</hi>
+                     </p>
+                     <p n="1">1. If it be taken for <hi>potentia prima,</hi> then it immediately flowes from the ſoule, and is eſſential to man, <hi>conſequntivè,</hi> as <hi>à proprium</hi> 4 <hi>to modo</hi> of man, and ſo 'tis in<g ref="char:EOLhyphen"/>ſeparable from him; but, if taken for <hi>potentia ſecunda,</hi> ſo it ariſeth from the diſpo<g ref="char:EOLhyphen"/>ſition of the temper and organs of the body, and is not eſſential, but accidental, and ſeparable from man.</p>
+                     <p>As for the third, to be mortal, I have already ſpoken of that ſufficiently.</p>
+                     <p>As for the 4th <hi>inſtance;</hi> to have a body of contrary qualities is eſſential <hi>conſequutivè.</hi> and <hi>à poſteriori</hi> unto an eſſential predicate of man; <hi>viz:</hi> a mixt body; and ſo is eſ<g ref="char:EOLhyphen"/>ſential unto man, and predicated of him <hi>in ſecundo modo dicendi per ſe,</hi> as a mixt body is predicated of him <hi>primo modo dicendi per ſe.</hi> For, as <hi>Scheibler</hi> [<hi>de prop: cap:</hi> 4. <hi>n:</hi> 41.] ſheweth, <hi>ad praedicationes per ſe ſecundi modi pertinent non ſolum praedi<g ref="char:EOLhyphen"/>cationes illae, in quibus proprium praedicatur de ſubjecto ſuo primo, veluti corpus eſt quan<g ref="char:EOLhyphen"/>tum; ſed etiam illae praedicationes in quibus proprium praedicatur de ſpeciebus ſui primi ſubjecti, veluti homo eſt quantus:</hi> but this hath no alliance with laughing, for it agre<g ref="char:EOLhyphen"/>eth alwayes unto all men.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>And in a morall diſcourſe to call for Metaphyſicall ſignifications, and not to be con<g ref="char:EOLhyphen"/>tent with morall and generall, may proceed from an itch to quarrell, but not from that ingenuity, which will be your and my beſt ornament.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <pb n="39" facs="tcp:51124:19"/>
+                     <head>Jeanes.</head>
+                     <p>It hath hitherto been a receiv'd rule amongſt all Logicians; that in <hi>mixt que<g ref="char:EOLhyphen"/>ſtions,</hi> the termes of which belong unto ſeverall diſciplines, we muſt for the ex<g ref="char:EOLhyphen"/>plication of each terme, have recourſe unto the diſcipline, unto which it apper<g ref="char:EOLhyphen"/>taineth; and you can ſay nothing to diſprove this rule: whether inclination to evill be eſſentiall to man? is a mixt queſtion; <hi>for inclination to evill or ſinne,</hi> is a <hi>Theo<g ref="char:EOLhyphen"/>logicall</hi> terme, and <hi>eſſentiall,</hi> is a <hi>Metaphyſicall</hi> terme; and therefore, in taking it in a Metaphyſicall ſenſe, I have done nothing, but what Logick, and reaſon have preſcribed me; and therefore I ſhall not feare your paſſionate, and irrationall cen<g ref="char:EOLhyphen"/>ſure of me for it. To cleare this yet further by inſtancing in mixt propoſitions of the like nature; <hi>an formale peccati in genere ſit privatio vectitudinis debitae rationali creaturae? an formale peccati originalis ſit ſolùm privatio originalis juſtitiae? an preni<g ref="char:EOLhyphen"/>tas ad malum fluat ex principiis naturae integrae? an Sacramentum ſit ens reſpectivum? an Sacramenta ſint cauſae Phyſicae gratiae?</hi>
+                     </p>
+                     <p>Now if here you ſhould be pleaſed to ſay, that in theſe queſtions to call for Me<g ref="char:EOLhyphen"/>taphyſicall ſignifications, of <hi>privatio, principium, ens reſpectivum,</hi> and <hi>cauſa Phyſi<g ref="char:EOLhyphen"/>ca,</hi> may proceed from an itch to quarrell, but not from that ingenuity, which will be our beſt ornament, you will bewray but little judgment, and leſſe ingenuity.</p>
+                     <p n="2">2. If that, which you call eſſentiall in a <hi>morall,</hi> and <hi>large ſenſe,</hi> doe not ei<g ref="char:EOLhyphen"/>ther conſtitute the eſſence, or neceſſarily flow therefrom, it will in the upſhot prove to be but accidentall; and how then comes it that you oppoſe it unto accidentall? But you will, perhaps,, tell me, that I muſt take accidentall in a morall, and large ſenſe, as well as eſſentiall; But, Sir, what is there in your words to guide me unto this ſenſe of accidentall? I took accidentall for the concrete of <hi>accidens praedica<g ref="char:EOLhyphen"/>bile,</hi> and ſo I believe have moſt Schollars that have read you; and why it ſhould not be thus underſtood I thinke you can alledge no reaſon, but that, you know not otherwiſe to make any tolerable ſenſe of your words: your diſcourſe is Polemicall, and if therein you uſe Philoſophicall termes, and I call for a Philoſophicall ſignifi<g ref="char:EOLhyphen"/>cation of the termes, with what forehead can you accuſe me for being quarrelſome, and diſingenuous? if when you cannot defend what you ſay, according unto the pro<g ref="char:EOLhyphen"/>per, and uſuall ſignification of the words you uſe, you muſt have liberty to fly un<g ref="char:EOLhyphen"/>to large and unuſuall ſenſes of them, you may ſay even what you pleaſe; for no man will be able to underſtand what you ſay, unleſſe he hath a peculiar key unto your writings,</p>
+                     <p>But let us inquire what can be here meant by accidentall in a morall and large ſenſe: eſſentiall, you ſay, in a morall ſenſe, is that which is not after our nature, but together with it; and, in conformity hereunto, accidentall in a morall ſenſe muſt be that which is after our nature, and not together with it, and then I ſhall deſire you to awake, and conſider, whether your <hi>ſecond reaſon</hi> be not coincident with your <hi>third;</hi> for your ſecond reaſon, as you expound it, ſtands thus; <hi>inclination to evill is after our nature, and not together with it in reall being:</hi> And your <hi>third</hi> rea<g ref="char:EOLhyphen"/>ſon is this, inclination to evill is ſuperinduc'd unto nature, and is after it, &amp;c.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <pb n="40" facs="tcp:51124:20"/>
+                  <head>Dr <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Although I have not much to doe with it, yet becauſe you are ſo great a Logioian, and ſo great an admirer of that which every one of your Pupils knowes, I mean Porphyries de<g ref="char:EOLhyphen"/>finiton of an accident, I care not if I tell you that the definition is imperfect and falſe.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p n="1">1. You have ever and anon an uncivil ſling at my poor Logick; But, Sir, let me be ſo bold as to tell you, that as my Logick is the object of your contempt, ſo that my Pupils cannot find in that Logick, which you manifeſt in theſe your papers, matter for either their envy or emulation.</p>
+                     <p n="2">2. Why, pray Sir, doe you ſay, that I am ſo great an admirer of <hi>Porphyries</hi> de<g ref="char:EOLhyphen"/>finition of an accident? indeed I ſay, that 'tis a <hi>celebrated definition</hi> of an acci<g ref="char:EOLhyphen"/>dent; but thereby I ſignify only that 'tis frequently and much uſed, commonly known, and in every man's mouth; and this acception of the word is uſuall in <hi>Ci<g ref="char:EOLhyphen"/>cero,</hi> as theſe inſtances following evidence: <hi>Celebratur omnium ſermone laetitiáque coavivium: hoc delatum eſt tum ad vos pontifices, poſt omaium ſermone celebratum, quemadmodum iſte omnia fecit: quod ita eſſe conſtanti fama atque omnium ſermone cele<g ref="char:EOLhyphen"/>bratum eſt: quid porro in graeco ſermone tam tritum atque celebratum eſt quam, &amp;c.</hi>
+                     </p>
+                     <p n="3">3. Though you care not to tell me, that <hi>Porphyries</hi> definition of an accident is falſe, and imperfect; yet you ſhould have been carefull to have brought ſtronger objections againſt it, than thoſe you have urged, for they containe ſuch groſſe, and abſurd untruths, as that every one that underſtands them, will think you a very in<g ref="char:EOLhyphen"/>competent judge of the definitions of <hi>Porphyrie</hi> and <hi>Ariſtotle.</hi> Indeed how farre you are to ſeek in the nature of accidents, appeares by your talking of <hi>accidents conſtitu<g ref="char:EOLhyphen"/>tive</hi> of a ſubſtance, in your diſcourſe of the Real-preſence, &amp;c: (<hi>Sect:</hi> 11. <hi>num:</hi> 12: <hi>pag:</hi> 209.) but let us heare your objections.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>It is not convertible with the definitum; for even, eſſential things may be taken away</hi> fine interitu ſubjecti.</p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>For an anſwer unto this, I ſhall referre you to your ſelfe, in your book, but now mentioned of the Real-preſence of Chriſt in the holy Sacrament. (<hi>Sect.</hi> 11. <hi>num.</hi> 30. <hi>p.</hi> 244. <hi>&amp;</hi> 245.) <hi>God can doe what he pleaſeth, and he can reverſe the lawes of his whole creation, becauſe he can change or annihilate every creature, or al<g ref="char:EOLhyphen"/>ter the manners and eſſences; but the queſtion now is, what lawes God hath already eſta<g ref="char:EOLhyphen"/>bliſhed, and whether or no eſſentials can be changed, the things remaining the ſame? that is, whether they can be the ſame, when they are not the ſame? he that ſayes God can give to a body all the eſſentiall properties of a ſpirit, ſaies true, and confeſſes God's Omnipotency; but he ſayes alſo that God can change a body, from being a body to be<g ref="char:EOLhyphen"/>come a ſpirit; but if he ſaves, that remaining a body it can receive the eſſentials of a ſpirit, he does not confeſſe God's omnipotency, but makes the Article difficult to be believed, by making it not to work wiſely and poſſibly: God can doe althings, but are they undone, when they are done? that is, are the things changed in their eſſentials
+<pb n="41" facs="tcp:51124:20"/>and yet remaine the ſame? then how are they chang'd, and then what hath God done to them?</hi>
+                     </p>
+                     <p>But to come unto your inſtances.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>I inſtance to be quantitative is eſſential to a body, and to have ſucceſſion of duration; but yet in the reſurrection when bodyes ſhall be ſpiritual, and eternal, thoſe other which are now eſſential predicates ſhall be taken away, &amp; yet the ſubject remain, &amp; be improved to higher, and more noble predicates.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p n="1">1. As for the 1. of theſe inſtances it is without doubt, that to be quantitative is eſſentiall unto a body <hi>à poſteriori,</hi> and <hi>conſecutive</hi> as a <hi>proprium</hi> thereof 4 <hi>to modo. but.</hi>
+                     </p>
+                     <p n="1">1. <hi>That quantity</hi> is ſeparable from a body was never affirmed by any beſides the Patrons of either tranſubſtantiation or conſubſtantiation.</p>
+                     <p n="2">2. <hi>If a body</hi> were without quantity, it would be without extenſion, and ſo would exiſt in an undiviſible point without diſtinction of parts, and ſo it would be <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, a bodileſſe body, which is a flat contradiction.</p>
+                     <p>But for refutation of this, I ſhall referre you to your own ſelfe in your diſcourſe of the Real-preſence, &amp;c. (<hi>Sect.</hi> 11.13 <hi>pag.</hi> 211.) <hi>But I demand, when we ſpeak of a body what we mean by it? for in all diſcourſes and entercourſes of mankind by words, we muſt agree concerning each others meaning: when we ſpeak of a body, of a ſubſtance, of an accident, what does man-kind agree to mean by theſe words? all the Philoſophers and all the wiſe men in the world, when they ſpeak of a body, and ſeparate it from a ſpirit, they mean, that a ſpirit is that which hath no material diviſible parts Phyſi<g ref="char:EOLhyphen"/>cally that which hath nothing of that which makes a body that is extenſion &amp; limitation by lines and ſuperficies.</hi> And, (Pag. 212.) <hi>when we ſpeak of a body all the world meanes that, which hath a finite quantity.</hi> Pag. 219.220: <hi>that which I now inſiſt upon is, that in a body there cannot be indiſtinction of parts, but each muſt poſſeſſe his own portion, or place, and if it does not, a body cannot be a body.</hi> Sect. II. num. 18. Again, (<hi>Tag.</hi> 221. <hi>num.</hi> 20: <hi>ejuſd: Sect:</hi>) <hi>If Chriſt's body be in the Sacrament ac<g ref="char:EOLhyphen"/>cording to the manner of a ſubſtance not of a body; I demand according to the nature of what ſubſtance whether of a material or an immaterial? if according to the nature of a material ſubſtance, then it is commenſurate by the dimenſions of quantity, which he is now endeavouring to avoid. If according to the nature of an immateriall ſubſtance, then it is not a body, but a ſpirit, or elſe the body may have the being of a ſpirit, whil'ſt it remains a body, that is, be a body, and not a body at the ſame time.</hi>
+                     </p>
+                     <p>Here every material ſubſtance, by your opinion is commenſurate by the diviſion of quantity, and therefore no material ſubſtance can be without the dimenſions of of quantity; afterwards in (<hi>pag.</hi> 241. <hi>&amp;</hi> 242. <hi>num:</hi> 29. <hi>ejuſd: Sect:</hi>) you bring in a ſhift of <hi>Bellarmines</hi> unto which you returne a very good anſwer, both which I ſhall tranſcribe. <hi>Bellarmine ſayes that to be coextended to a place is ſeparable from a ma<g ref="char:EOLhyphen"/>gnitude or body, becauſe it is a thing that is extrinſecal and conſequent to the intrinſe<g ref="char:EOLhyphen"/>cal extenſion of parts, and being later than it, is by divine power ſeparable:</hi> but this
+<pb n="42" facs="tcp:51124:21"/>is as very a ſophiſm as all the reſt; <hi>for if whatever in nature is later than the ſubſtance, be ſepara le from it, than fire may be without heat, or water without moiſture; a man can be without time, for that alſo is in nature after his eſſence, and he may be without a fa<g ref="char:EOLhyphen"/>culty of will, or underſtanding, or of affections, or of growing to his ſtate, or being nouriſhed, and then he will be a ſtrange man, who will neither have the power of will, or underſtanding, of deſiring, or avoiding, of nouriſhment or growth, or any thing, that can diſtinguiſh him from a beaſt, or a tree, or a ſtone; for theſe are all later than the eſſence, for they are all eſſential emanations from it, thus alſo quantity can be ſeparated from a ſubſtantial body if every thing that is later than the forme can be ſeparated from it.</hi>
+                     </p>
+                     <p>When you wrote this, you thought it a groſſe abſurdity to averre that quantity could be ſeparated from a ſubſtantial body; when you have anſwered your ſelfe, I ſhall then take up the Cudgels, and reply unto your anſwer in the mean while, I ſhall conſider your argument by which you endeavour to prove quantity ſeparable from a body.</p>
+                     <p>It ſtands thus; in the reſurrection bodies ſhall be ſpiritual; therefore to be quan<g ref="char:EOLhyphen"/>titative, which is now an eſſential predicate, ſhall be then taken away.</p>
+                     <p>For anſwer.</p>
+                     <p n="1">1. If the bodies of the Saints ſhall be raiſed without quantity, then without extenſion, without integral parts, without heads, eyes, armes, legs, feet, and this would be a very pretty, and proper reſurrection; it would indeed be an inviſible reſurrection; this is a very ſtrange, and falſe aſſert on, contrary as to the conſtant tenet of both ancient, and moderne Divinity, ſo alſo unto expreſſe ſcripture; <hi>In my fleſh,</hi> ſaies Job, <hi>ſhall I ſee God, whom I ſhall ſee for my-ſelfe, and my eyes ſhall be<g ref="char:EOLhyphen"/>hold, and not another,</hi> Job. 19.26, 27: the bodies of the Saints ſhall in the reſur<g ref="char:EOLhyphen"/>rection be <hi>conformed unto Chriſt's glorious body in his:</hi> Philip 3.21: and that was a viſible and palpable body, <hi>it might be ſeen and felt, it had fleſh and bones, and hands, feet and ſides,</hi> Luk. 24 39, 40: John. 20.27: ſee <hi>Aquin: ſup: ad</hi> 3 <hi>am part. ſum: &amp;c: quaeſt.</hi> 30. <hi>Art.</hi> 1. Tertullian upon theſe words of the Apoſtles <hi>[this corruptible ſhall put on incorruption]</hi> hath this gloſſe, <hi>quantitativam &amp; eandem numero eſſentiam di<g ref="char:EOLhyphen"/>gito demonſtrat, magis enim expreſſè loqui non poterat, n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſi cutem ſuam manibus teneret.</hi>
+                     </p>
+                     <p n="2">2. As for the ſpirituality of our bodies in the reſurrection, that ſhall not be de<g ref="char:EOLhyphen"/>ſtructive of their quantity; for they ſhall be <hi>ſpiritual,</hi> not in regard <hi>of ſubſtance;</hi> but in reſpect of either <hi>immediate ſupportance</hi> by the ſpirit, or elſe reſemblance unto a ſpi<g ref="char:EOLhyphen"/>rit.</p>
+                     <p n="1">1. <hi>In reſpect of immediate ſupportance by the ſpirit</hi> without the help of bodily meanes, meates, drinks, ſleep, medicaments, &amp;c: he that raiſed up Chriſt from the dead ſhall alſo quicken your mortal bodies by his ſpirit that dwelleth in you, <hi>Rom.</hi> 3.11: or elſe</p>
+                     <p n="2">2. (As others conjecture) in regard <hi>of reſemblance</hi> unto a ſpirit as touching ſome particulars in the reſurrection; <hi>they neither marry, nor are given in marriage; but are as the Angels of God in Heaven,</hi> Matth. 22.30.</p>
+                     <p>But that ſpirituality of the body in <hi>Paul's</hi> ſenſe of the word is no impeachment unto the quantity of it is evident enough from what you ſay in your treatiſe of the Real-preſence, &amp;c: for therein you rightly averre, that Chriſt's body is now a ſpi<g ref="char:EOLhyphen"/>ritual body, and yet maintain againſt the Papiſts that 'tis endued with quantity, and hath <hi>partem extra partem,</hi> one part without the other anſwering to the parts of his place.</p>
+                     <p>Your <hi>ſecond inſtance</hi> is, to have ſucceſſion of duration, this is eſſential to a bo<g ref="char:EOLhyphen"/>dy think you; yet in the reſurrection, when our bodies ſhall be eternal, it ſhall be taken away.</p>
+                     <pb n="43" facs="tcp:51124:21"/>
+                     <p>But here Sir, my poor Pupils, becauſe you are ſo great a Metaphyſitian, care not much if they tell you, That <hi>ſucceſſion</hi> in duration is ſo far from being eſſential to a body, as that it doth not at all agree thereunto; and they have learnt at out of <hi>Scheibler, Metap. lib.</hi> 1. <hi>cap.</hi> 16. <hi>n.</hi> 48.53.91, 92, 93, 94, 95, 96, 97, 98, 99, cap. 19. n. 9, 10, 11, 31, 32, 33, 34, 35. And <hi>Saurez, disp:</hi> 50. <hi>Sect.</hi> 5. and 7. Metaphyſitians no ways inferior unto your great ſelf.</p>
+                     <p>Out of them they thus argue, whatſoever hath a ſucceſſive duration, hath alſo a ſucceſſive eſſence or being; but now no body hath a ſucceſſive eſſence or being, therefore no body hath a ſucceſſive duration.</p>
+                     <p>The <hi>Major</hi> is evident, becauſe as <hi>Suarez</hi> and <hi>Scheibler</hi> well prove, the duration of a thing is not diſtinguiſhed from the actual exiſtence thereof, <hi>really,</hi> but onely <hi>ratione ratiocinatâ.</hi>
+                     </p>
+                     <p>And then for the <hi>Minor,</hi> it may be thus confirmed, Whatſoever hath a ſucceſ<g ref="char:EOLhyphen"/>ſive eſſence or being, hath the parts of its eſſence <hi>in fluxu,</hi> ſo that 'tis partly paſt, partly preſent, and in part to come; but no ſuch thing can be affirm'd of any body, and therefore no body hath a ſucceſſive eſſence or being.</p>
+                     <p>Or thus, No permanent being hath a ſucceſsive being or eſſence; but every body is a permanent being, therefore no body hath a ſucceſsive being or eſſence.</p>
+                     <p>The <hi>Minor,</hi> that alone askes proof, may be thus confirmed: Whatſoever hath all the parts of its eſſence or being together (ſo that in no moment of time there is wanting unto it any thing requiſite unto its eſſential integrity) that is a permanent being; but every body hath all the parts of its eſſence or being together (ſo that in no moment of time there is wanting unto it any thing requiſite unto its eſſential integrity.)</p>
+                     <p>Therefore every body is a permanent being.</p>
+                     <p>If you ſhould ſay, That God onely hath permanency of being, according to that of the Pſalmiſt, <hi>Pſal.</hi> 102.26, 27. <hi>The Heavens ſhall periſh, but thou ſha't en<g ref="char:EOLhyphen"/>dure; yea all of them ſhall wax old, like a garment; as a veſture ſhalt thou change them, and they ſhall be changed, but thou art the ſame.</hi>
+                     </p>
+                     <p>Unto this they will anſwer, That you do but trifle with the equivocation of the word <hi>permanency,</hi> it is (they will ſay) oppoſed unto either <hi>mutability</hi> or <hi>ſucceſſion;</hi> if it be oppoſed unto <hi>mutability</hi> and <hi>defectibility</hi> of being, then God alone hath permanency of being; but if it be oppoſed unto <hi>ſucceſsion</hi> of being, then every created being, beſides motion, hath permanency of being; and this <hi>Scheibler</hi> hath taught them, <hi>Met: lib.</hi> 1. <hi>cap.</hi> 19. <hi>n.</hi> 35. <hi>Nullae rei</hi> (inquit) <hi>convenit fluxus vel ſuc<g ref="char:EOLhyphen"/>ceſsio partium eſſentialium praeterquam motui (permiſsive loquendo) unde non eſt tempus ſucceſsivum, niſi tempus quo durat ipſe motus: nempe ſicut eſſentia motus conſiſtit in ſucceſsione partium: ita etiam duratio motûs conſiſtit in ſucceſsione partium, &amp; pro<g ref="char:EOLhyphen"/>inde utrumque eſt ens ſucceſsivum, ſi tamen a parte rei loquamur, tùm ſolum unum ens eſt ſucceſsivum, nempe motus, duratio enim motus à parte rei cadem eſt cum eſſentiâ ipſà.</hi> If you ſhould ſay with <hi>Bonaventure,</hi> and others, That ſucceſsion of dura<g ref="char:EOLhyphen"/>tion diſtinguiſheth the creature from the Creator, and therefore every creature hath ſucceſſion of duration: They will again (out of the forementioned Authors) di<g ref="char:EOLhyphen"/>ſtinguiſh of a two-fold ſucceſſion, <hi>privative and poſitive.</hi>
+                     </p>
+                     <p n="1">1. A <hi>privative or negative</hi> ſucceſſion, and that is, either betwixt not being, and being, or betwixt being, and not being; thus when a man is begotten, his being ſucceeds his not being, and when he dies, his not being ſucceeds his being; and this privative ſucceſſion doth diſtinguiſh the creature from the Creator, and there<g ref="char:EOLhyphen"/>fore doth or may agree to every creature: for even the Angels had a beginning,
+<pb n="44" facs="tcp:51124:22"/>and ſo there was a ſucceſſion of their being unto their not being; and they might have an end, by Gods omnipotency, if he had not decreed otherwiſe: nay, God could annihilate them meerly by the withdrawing of his preſervative influence, and ſo there might have been a ſucceſsion of their not being unto their being: this ſucceſſion is <hi>oppoſed</hi> unto an intrinſecal neceſſity of exiſtence, or unto an immuta<g ref="char:EOLhyphen"/>ble permanency, <hi>ſeu ſtabilitati permanentiae,</hi> as <hi>Suarez</hi> phraſeth it, <hi>Disp:</hi> 50. <hi>Sect.</hi> 5. <hi>n.</hi> 26. and not unto <hi>permanency of being as ſuch:</hi> This ſucceſſion, if we ſpeak of the power and capacity of it, is eſſential to our bodies, and withal, 'tis inſepara<g ref="char:EOLhyphen"/>ble from them; for even after the reſurrection, God could (if he had not deter<g ref="char:EOLhyphen"/>mined the contrary) reduce them unto their firſt nothing.</p>
+                     <p>A <hi>poſitive ſucceſsion</hi> hath for both its extreams a poſitive being, and this is again (they will ſay) either <hi>diſcrete, or continuous.</hi>
+                     </p>
+                     <p n="1">1. <hi>Diſcrete</hi> between beings totally perfect; as the knowledge of one Plant ſuc<g ref="char:EOLhyphen"/>ceeds the knowledge of another Plant: But this ſucceſſion doth not conſtitute a ſucceſsive being</p>
+                     <p>There is another ſucceſſion, which they call <hi>continuous,</hi> and that is not betwixt total beings, but betwixt parts of the ſame being; when they do not exiſt together, but one after another, in <hi>fluxu</hi> (as they ſay) and this ſucceſſion is proper and pe<g ref="char:EOLhyphen"/>culiar unto motion, though not unto every motion. Thus far my Pupils.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>This I have here ſet down, not that I at all value the problem whether it be ſo or no, but that you may not think me a Socinian particularly in this Article, or that I think the bodies in the reſurrection ſhall be specifically diſtinct from what they are here; I believe them the ſame bodies, but enobled in their very beings, for to a specifical and ſubſtantial change, is required, that there be introduction of new forms.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p n="1">1. You will not be throughly and ſufficiently diſtinguiſhed from the Socinians in this Article, if you think the bodies in the reſurrection ſhall be <hi>numerically</hi> di<g ref="char:EOLhyphen"/>ſtinct from what they are here; and therefore I ſhall intreat you to tell us in your next, how far you accord with or diſſent from them in this particular.</p>
+                     <p n="2">2. You here ſay, that to be quantitative, ſhall be taken away from our bodies in the reſurrection; and the ſequel of this is, that bodies in the reſurrection ſhall be <hi>specifically</hi> diſtinct from what they are here; for a quantitative ſubſtance, and a ſubſtance without quantity, are ſpecifically diſtinct; becauſe the one is material, a body, and the other immaterial, a ſpirit, and not a body at all, unleſſe <hi>nomine tenus.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>But yet the improving of eſſential predicates, is no ſpecification of ſubjects, but a me<g ref="char:EOLhyphen"/>lioration of the firſt.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>The ordinary Reader may perhaps think, that there is ſome great myſtery wrapt up under theſe hard words; but the plain meaning of them, is (as I ſuppoſe) that
+<pb n="45" facs="tcp:51124:22"/>the improving of eſſential predicates, doth not make a ſpecifical change of ſubjects, but onely advance a ſubject unto a better being. Eſſential predicates may be ſaid to be improved three manner of ways. 1. <hi>By abolition of them.</hi> 2. <hi>By intenſion of them.</hi> 3. <hi>By addition unto them.</hi>
+                     </p>
+                     <p>The two latter are impertinent to this buſineſs in hand; for ſuppoſe (though not grant) that the eſſential predicates of ſubſtances might be improved by <hi>intenſion</hi> of them, or by addition unto them; yet what will this make to the ſeparability of eſ<g ref="char:EOLhyphen"/>ſentials from a ſubject: The improving of eſſential predicates, that belongs unto our preſent purpoſe, is by <hi>abolition</hi> of them, and by ſubſtituting new and more no<g ref="char:EOLhyphen"/>ble eſſentials in their room; and that eſſentials may be aboliſhed, and new eſſen<g ref="char:EOLhyphen"/>tials ſubſtituted in their rooms (the things remaining the ſame) is a thing you may <hi>magiſterially and imperiouſly</hi> dictate, but can never <hi>Scholaſtically</hi> prove.</p>
+                     <p>But (perhaps) you will ſay, that you take eſſential in a Moral and Theological ſenſe: But Sir, you muſt remember, that you are not to take <hi>eſſential</hi> here, in ſuch a latitude, as to include <hi>accidental</hi> and <hi>contingent predicates;</hi> for if you ſhould, <hi>Porphyry</hi>'s definition of Accidens will remain unſhaken by what you ſay: Would not this be a ridiculous Argument? accidental and contingent predicates may be taken away, <hi>ſine ſubjecti interitu,</hi> therefore <hi>adeſſe &amp; abeſſe ſine ſubjecti interit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> is no excellent definition of an accident; and yet this will be your very argument, if by eſſential predicates you mean any thing beſides the <hi>four firſt predicables,</hi> unto which all eſſential predicates are reducible.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>But the conſequent is, that</hi> abeſſe &amp; adeſſe ſine ſubjecti interitu, <hi>is not an excellent definition of an accident.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>The arguments from which you infer this conſequent, are overthrown, and there<g ref="char:EOLhyphen"/>fore this conſequent falleth to the ground of it ſelf, without you ſupport it by ſome freſh arguments.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>And yet further, it follows; That if ſin were as eſſential to a man, as mortality is, or to be qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ntitative, yet there is no more need that man ſhould riſe with ſin, then with mortality.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>And, pray Sir, why do not you adde, and with quantity? Do you begin to ſtartle at this Propoſition? that men ſhall riſe without quantity: But as touching the ſe<g ref="char:EOLhyphen"/>parability of both mortality and quantity from bodies in the reſurrection, I have ſpoken already ſo fully, as that I may ſpare to ſay any thing anew of it.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>But</hi> Ariſtotles <hi>Philoſophy, and</hi> Porphyry's <hi>Commentary, are but ill meaſures in The<g ref="char:EOLhyphen"/>ology, and you ſhould do well to ſcour bright that armor in which you truſt, which unleſs it be prudently conducted, will make a man a Sophiſter rather then a Theologue: but you are wiſer.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <pb n="46" facs="tcp:51124:23"/>
+                     <head>Ieanes.</head>
+                     <p>
+                        <hi>Ariſtotle</hi> and <hi>Porphiry</hi> are no contemptible Authors in Philoſophy; but who ever thought them infallible in Philoſophy, or their Books meaſures in Theology? Phi<g ref="char:EOLhyphen"/>loſophy is a very uſefull Hand-maid unto Divinity, and none will decry it, but ſuch whoſe ſayings and writings cannot endure the teſt thereof; nothing that is true in Philoſophy, can be falſe in Divinity; for <hi>verum vero non opponitur,</hi> one truth doth not, cannot claſh with another: As for my Philoſophy, I hope God will preſerve me from truſting in it, or in any other arm of fleſh: If you can detect any error therein, I ſhall be ready to retract it, and be very thankful to you for your pains; as for the dirt you have hitherto thrown thereon, it will not ſtick, but recoil<g ref="char:EOLhyphen"/>eth on your own face.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr Taylor.</head>
+                  <p>
+                     <hi>I have onely this one thing to adde, That the common Diſcourſes of Original Sin, makes ſin to be natural, neceſſary, and unavoidable, and then may I not uſe your own words, this Tenet is chargeable with Libe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tiniſm, it is a licentious Doctrine, and opens a gap to the greateſt prophaneneſs, for it takes away all conſcience of ſin, all repentance of it for the time paſt; if ſin be natural, neceſſary, and unavoidable, as it is to us, if we derive it from</hi> Adam, &amp;c. <hi>what reaſon hath he to be humbled for it, and to ask God pardon for it? ſo that you have done well againſt your own opinion; and if I had not uſed the argument before, I ſhould have had reaſon to thank you for it: now as it is, you are further to conſider of it, not I.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>If you underſtand by <hi>natural,</hi> that which <hi>naturally reſults from nature,</hi> and by <hi>neceſſary</hi> and <hi>unavoidable,</hi> that which is <hi>denominated</hi> ſuch <hi>from a primitive and crea<g ref="char:EOLhyphen"/>ted neceſſity,</hi> that which you ſay is a foul ſlander againſt the common diſcourſes of Proteſtants againſt Original ſin: But if you mean by <hi>natural</hi> that which is <hi>con<g ref="char:EOLhyphen"/>nexed with,</hi> and <hi>coeval</hi> unto our nature, and by <hi>neceſſary and unavoidable,</hi> that which is ſuch in regard of a <hi>conſequent and contracted neceſsity,</hi> it will be nothing to the purpoſe: for you (and you may take in to boot your good friends of <hi>Racovia</hi>) are never able to prove, that the aſſertion of ſuch a naturality and neceſsity of Origi<g ref="char:EOLhyphen"/>nal ſin, is any bar to humiliation or repentance for it, unto Prayer for the pardon of it.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr Taylor.</head>
+                  <p>
+                     <hi>Sir, Though I have reaſon to give you the priority in every thing elſe, yet in civility I have far out-done you.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>Firſt, You have written a Letter to me without a Superſcription, and I have re<g ref="char:EOLhyphen"/>turned one unto you with a Superſcription; and this I take, to be of the two, the greater civility.</p>
+                     <p>If I may believe the eccho of the neighborhood, you have written ſeveral Let<g ref="char:EOLhyphen"/>ters unto Mr. <hi>T. C.</hi> concerning me, that cannot pretend to any great civility, for they are ſaid to be ſtuffed with inſulting reproaches: unto which I ſhall return no<g ref="char:EOLhyphen"/>thing, but my Prayers for the increaſe of your charity and humility.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <pb n="47" facs="tcp:51124:23"/>
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>You were offended at a paſſage, which you might eaſily, but would not underſtand; you have urg'd arguments againſt me, which return upon your own head: The Propoſiti<g ref="char:EOLhyphen"/>on you charge me withall, I own not in any of your ſenſes, nor (as you ſet it down) in any at all, and yet your arguments do not ſubſtantially, or rationally confute it, if I had ſaid ſo.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>Here you ſum up your Conqueſts, but whether you do not reckon without your Hoſt, let the Reader judge.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Beſides all this, you have uſed your pleaſure upon me; you have reviled me, ſlighted me, ſcorned me, untempted, unprovoked; you never ſent to me civilly to give you ſatiſ<g ref="char:EOLhyphen"/>faction in your Objections, but talked it my abſence, and to my prejudice.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>Unto all this, a general negative is a ſufficient anſwer, until I know the Parti<g ref="char:EOLhyphen"/>culars that your Delator hath informed you with; but perhaps, you may think that for ſuch an obſcure perſon as my ſelf, to dare to except againſt what you write, is to revile, ſlight, and ſcorn you; if you be ſo impatient of contradiction, I ſhall leave it unto your own boſom to judge from what ſpirit it proceeds: When you publiſhed your Book, you expoſed it to every mans cenſure that would read it; and will you accuſe every man of uncivility that paſſeth his cenſure upon any paſſage in it, in a private diſcourſe with friends? But Sir, upon Mr. <hi>C.</hi> his entreaty, I ſent him in writing the reaſons that I had for my cenſure, and theſe reaſons were by my con<g ref="char:EOLhyphen"/>ſent to be conveyed to you, and therefore I ſent unto you <hi>mediately</hi> by another to give ſatisfaction to my objections: If you ſhall ſay that 't was uncivil for me not to make my addreſs immediately unto your ſelf, it is a charge will eaſily be wiped off; I was, as I thought, an utter ſtranger unto you, and Mr. <hi>C.</hi> profeſſed a greet ac<g ref="char:EOLhyphen"/>quaintance with, and intereſt in you, and aſſured me that my Exceptions ſhould be received with all poſsible candor, and promiſed his diligence and fidelity in con<g ref="char:EOLhyphen"/>veying of them unto you; my objections therefore were ſent civilly unto you, though ſent by him; but however you are thus ſevere, the Reader, I hope, will have a more charitable opinion of my procedure herein, and think, that you have no reaſon to make ſuch Tragical Out-crys againſt me for abuſive uncivilities towards you.</p>
+                  </div>
+               </div>
+               <div type="quoted_letter__Taylor">
+                  <head>Dr. <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Yet I have ſent you an anſwer, I hope, ſatisfactory, and together with it a long Let<g ref="char:EOLhyphen"/>ter, which in the midſt of my many affairs and ſtraitned condition, is more then I can a<g ref="char:EOLhyphen"/>gain afford.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>Unto your long Letter I have returned a longer anſwer; and whether yours or mine be ſatisfactory, I am contented to refer it unto the indifferent Reader: If your condition be ſtraitned, I wiſh it were more plentiful: But my affairs are, I believe, neither for number nor importance inferior unto yours; and from them I have borrowed ſo much time, as to anſwer you, and ſhall be ready to do ſo a<g ref="char:EOLhyphen"/>gain to perform unto you the like office.</p>
+                  </div>
+               </div>
+               <div type="quoted_closer_to_letter__Taylor">
+                  <pb n="48" facs="tcp:51124:24"/>
+                  <head>Dr <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>And after all this, I aſſure you that I will pray for you, and speak ſuch good things of you, as I can finde, or hear to be in you; and profeſs my ſelf, and really be, Sir, Your affectionate friend and ſervant, in our bleſſed Lord and Saviour Jeſus.</hi> Jer: Taylor.</p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>For this your promiſe I give you hearty thanks, and ſhall endeavor to make you as grateful a return as I can, in the like Chriſtian offices of love, and ſo ſhall reſt,</p>
+                     <closer>
+                        <signed>
+                           <hi>In Chriſt Jeſus your humble ſervant,</hi> Henry Jeanes.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="quoted_postscript_to_letter__Taylor">
+                  <head>POSTSCRIPT. Dr <hi>Taylor.</hi>
+                  </head>
+                  <p>
+                     <hi>Sir, I received yours late laſt night; and I have returned you this early in the morn<g ref="char:EOLhyphen"/>ing, that I might in every thing be respective of you.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Jeanes.</head>
+                     <p>This I eaſily believe, and am confident, that upon review of your Letter you will acknowledge, that according to the proverb, you have made more haſte then good ſpeed.</p>
+                  </div>
+               </div>
+               <div type="quoted_postscript_to_letter__Taylor">
+                  <head>Dr. Taylor.</head>
+                  <p>
+                     <hi>But I deſire not to be troubled with any thing that is not very material, for I have bu<g ref="char:EOLhyphen"/>ſineſs of much greater concernment; neither can I draw the ſaw of contention with any man about things leſs pertinent. I expect no anſwer, I need none, I deſire none, but ex<g ref="char:EOLhyphen"/>pect that you will imploy your good parts in any thing, rather then in being</hi> ingenioſus in alieno libro. <hi>Your talents can better (if you pleaſe) ſerve God, then by cavilling with or without reaſon.</hi>
+                  </p>
+                  <div type="response__Jeanes">
+                     <head>Ieanes.</head>
+                     <p>Whether or no the controverſie between us be not material, but leſs pertinent; whether your Letter be ſo ſatisfactory, as that it needs no anſwer? as alſo, whether I cavill without reaſon (to cavil with reaſon, is a Catachreſis as harſh as <hi>ratione in<g ref="char:EOLhyphen"/>ſanire,</hi> and as hardly juſtifiable, but by a <hi>licentiâ poeticâ</hi>) are things in which I re<g ref="char:EOLhyphen"/>fuſe you for my Judge, and appeal unto the learned and unprejudic'd Reader.</p>
+                     <p>Secondly, That you neither expect nor deſite an anſwer from me may be very pro<g ref="char:EOLhyphen"/>bable, but that I was obliged to return you one, I have 3 Reaſons that convince me.
+<list>
+                           <item>Firſt, By my ſilence, the truth which you have wronged would ſuffer.</item>
+                           <item>Secondly, your Papers have been with a great deal of diligence publiſhed, and if I ſhould not give them an anſwer, I ſhould be acceſſary to the Funeral of my own good name. And</item>
+                           <item>Thirdly, A friend of yours, when he gave me this your Letter, told me, That I could not anſwer it, and that you were, as he thought, infallible: now I thought it my duty to undeceive him, who having your perſon in too great an admiration, greedily ſwalloweth whatſoever falls from your pen, though never ſo falſe and erro<g ref="char:EOLhyphen"/>neous.</item>
+                        </list>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51124:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
